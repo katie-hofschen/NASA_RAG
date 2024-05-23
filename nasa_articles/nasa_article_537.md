@@ -1,0 +1,2 @@
+Cheers! NASA’s Webb Finds Ethanol, Other Icy Ingredients for Worlds 
+ Of particular interest is that one of the sources investigated, IRAS 2A, is characterized as a low-mass protostar. IRAS 2A may therefore be similar to the early stages of our own solar system. As such, the chemicals identified around this protostar may have been in the first stages of development of our solar system and later delivered to the primitive Earth.

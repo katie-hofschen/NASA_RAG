@@ -1,0 +1,4 @@
+NASA’s Webb Hints at Possible Atmosphere Surrounding Rocky Exoplanet 
+ A light curve of 7.5- to 11.8-micron light captured by NASA’s James Webb Space Telescope’s MIRI (Mid-Infrared Instrument) in March 2023 shows the decrease in brightness of the 55 Cancri system as the rocky planet 55 Cancri e moves behind the star, a phenomenon known as a secondary eclipse. The amount of mid-infrared light given off by the planet (the difference in brightness between the star-and-planet combined and the star on its own) indicates that the planet’s dayside temperature is about 2,800 degrees Fahrenheit. This temperature, which is low compared to a similar planet with no atmosphere, indicates that heat is being distributed from the dayside to the nightside of the planet, possibly by a volatile-rich atmosphere.
+
+Illustration: NASA, ESA, CSA, Joseph Olmsted (STScI) Science: Aaron Bello-Arufe (JPL)

@@ -1,0 +1,44 @@
+What You Need to Know about NASA’s SpaceX Crew-8 Mission 
+ jsc2023e070781 (Oct. 4, 2023) — Official SpaceX Crew-8 portrait with Roscosmos cosmonaut and Mission Specialist Aleksandr Grebenkin, and Pilot Michael Barratt, Commander Matthew Dominick, and Mission Specialist Jeanette Epps, all three NASA astronauts. NASA/Bill Stafford
+
+Four new crew members are preparing to launch to the International Space Station as part of NASA’s SpaceX Crew-8 mission.
+
+NASA astronauts Matthew Dominick, Michael Barratt, and Jeanette Epps, and Roscosmos cosmonaut Alexander Grebenkin will lift off from Launch Complex 39A at NASA’s Kennedy Space Center in Florida to perform research, technology demonstrations, and maintenance activities aboard the microgravity laboratory.
+
+The flight is the eighth crew rotation mission with SpaceX to station, and the ninth human spaceflight as part of NASA’s Commercial Crew Program. The cadre will fly aboard the SpaceX Dragon spacecraft, named Endeavour, which previously flew NASA’s SpaceX Demo Mission-2, Crew-2 and Crew-6, in addition to Axiom Mission 1, the first commercial astronaut mission to the space station.
+
+As teams progress through Dragon milestones for Crew-8, they also are preparing a first-flight Falcon 9 booster for the mission. Once all rocket and spacecraft system checkouts are complete and all components are certified for flight, teams will mate Dragon to the Falcon 9 rocket in SpaceX’s hangar at the launch site. The integrated spacecraft and rocket will then be rolled to the pad and raised to vertical for a dry dress rehearsal with the crew and an integrated static fire test prior to launch.
+
+The Crew
+
+jsc2024e005947 (Jan. 12, 2024) — The crew of NASA’s SpaceX Crew-8 mission to the International Space Station poses for a photo during their Crew Equipment Interface Test at NASA’s Kennedy Space Center in Florida. The goal of the training is to rehearse launch day activities and get a close look at the spacecraft that will take them to the International Space Station. SpaceX
+
+Matthew Dominick will serve as commander for Crew-8, his first spaceflight, after being selected as an astronaut by NASA in 2017. He is from Wheat Ridge, Colorado, and earned a bachelor’s degree in electrical engineering from the University of San Diego, California, and a master’s in systems engineering from the Naval Postgraduate School in Monterey, California. He is an active-duty U.S. Navy astronaut. He graduated from the U.S. Naval Test Pilot School in Patuxent River, Maryland, and then served as a test pilot specializing in testing aircraft carriers’ landings and catapult launches. Follow @dominickmatthew on X.
+
+Michael Barratt is the Crew-8 pilot, making his third visit to the space station. In 2009, Barratt served as a flight engineer for Expeditions 19/20 as the station transitioned its standard crew complement from three to six and performed two spacewalks. He flew aboard the space shuttle Discovery in 2011 on STS-133, which delivered the Permanent Multipurpose Module and fourth Express Logistics Carrier. He has spent a total of 212 days in space. Born in Vancouver, Washington, he considers Camas, Washington, to be his hometown. Barratt earned a bachelor’s in zoology from the University of Washington, Seattle, and a Doctor of Medicine degree from Northwestern University in Chicago. He completed residencies in internal and aerospace medicine at Northwestern along with a master’s degree at Wright State University in Dayton, Ohio. After nine years as a NASA flight surgeon and project physician, Barratt joined the astronaut corps in 2000. During Expedition 70/71 on the International Space Station, he will serve as a mission specialist.
+
+Jeanette Epps was selected by NASA as an astronaut in 2009 and is a mission specialist aboard Crew-8, her first spaceflight, working with the commander and pilot to monitor the spacecraft during the dynamic launch and re-entry phases of flight. She is from Syracuse, New York, and earned a bachelor’s in physics from LeMoyne College in Syracuse, and a master’s in science and a doctorate in aerospace engineering from the University of Maryland at College Park. Prior to joining NASA, she worked at Ford Motor Co. and the Central Intelligence Agency. She was selected as an astronaut in July 2009 and has served on the Generic Joint Operation Panel working on space station crew efficiency, as a crew support astronaut for two expeditions, and as lead capsule communicator at NASA Johnson. Epps previously was assigned to NASA’s Boeing Starliner-1 mission. NASA reassigned Epps to allow Boeing time to complete development of Starliner while also continuing plans for astronauts to gain spaceflight experience for future mission needs. Follow @Astro_Jeanette on X.
+
+Roscosmos cosmonaut Alexander Grebenkin, who graduated from Irkutsk High Military Aviation School, Irkutsk, Russia, majoring in engineering, maintenance, and repair of aircraft radio navigation systems, also is flying on his first mission. He graduated from Moscow Technical University of Communications and Informatics with a degree in radio communications, broadcasting, and television. Grebenkin will serve as a flight engineer during Expeditions 70/71 aboard the International Space Station.
+
+Mission Overview
+
+jsc2023e066245 (Oct. 15, 2023) — The four SpaceX Crew-8 crew members (from left) Alexander Grebenkin from Roscosmos; Michael Barratt, Matthew Dominick, and Jeanette Epps, all NASA astronauts, are pictured training inside a Dragon mockup crew vehicle at SpaceX headquarters in Hawthorne, California. SpaceX
+
+Lifting off from Launch Pad 39A on a Falcon 9 rocket, Dragon will accelerate to approximately 17,500 mph, to dock with the space station.
+
+Once in orbit, the crew and SpaceX mission control in Hawthorne, California, will monitor a series of automatic maneuvers that will guide Dragon to the forward-facing port of the station’s Harmony module. The spacecraft is designed to dock autonomously, but the crew can take control and pilot manually, if necessary.
+
+After docking, Crew-8 will be welcomed inside the station by the seven-member crew of Expedition 70 and conduct several days of handover activities with the departing astronauts of NASA’s SpaceX Crew-7 mission. After a handover period, NASA astronaut Jasmin Moghbeli, ESA (European Space Agency) astronaut Andy Mogensen, JAXA (Japan Aerospace Exploration Agency) astronaut Satoshi Furukawa, and Roscosmos cosmonaut Konstantin Borisov of Crew-7 will undock from the space station and splash down off the coast of Florida.
+
+Crew-8 will conduct new scientific research to prepare for human exploration beyond low Earth orbit and benefit humanity on Earth. Experiments include using stem cells to create organoid models to study degenerative diseases, studying the effects of microgravity and UV radiation on plants at a cellular level, and testing whether wearing pressure cuffs on the legs could prevent fluid shifts and reduce health problems in astronauts. These are just a few of the more than 200 scientific experiments and technology demonstrations taking place during their mission.
+
+While aboard the orbiting laboratory, Crew-8 will see the arrival of both the SpaceX Dragon and the Roscosmos Progress cargo spacecraft. Crew-8 also is expected to welcome the agency’s Boeing Crew Flight Test astronauts and the first cargo flight of Sierra Space’s Dream Chaser. A Soyuz spacecraft with three new crew members, including NASA astronaut Tracy Dyson, will also launch during their stay, and the Soyuz carrying NASA astronaut Loral O’Hara will return to Earth.
+
+After completing a short handover with Crew-9 at the completion of the mission, Dragon with the four crew members aboard will autonomously undock, depart the space station, and re-enter Earth’s atmosphere. After splashdown off Florida’s coast, a SpaceX recovery vessel will pick up the spacecraft and crew, who then will be helicoptered back to shore.
+
+Commercial crew missions enable NASA to maximize use of the space station, where astronauts have lived and worked continuously for more than 23 years testing technologies, performing research, and developing the skills needed to operate future commercial destinations in low Earth orbit, and explore farther from Earth. Research conducted on the space station provides benefits for people on Earth and paves the way for future long-duration trips to the Moon and beyond through NASA’s Artemis missions.
+
+Get breaking news, images, and features from the space station on Instagram, Facebook, and X.
+
+Learn more about the space station, its research, and crew, at: https://www.nasa.gov/station

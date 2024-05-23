@@ -1,0 +1,2 @@
+Hubble Views a Galaxy Settling into Old Age 
+ NGC 3384, visible in this image, has many of the characteristic features of so-called elliptical galaxies. Such galaxies glow diffusely, are rounded in shape, display few visible features, and rarely show signs of recent star formation. Instead, they are dominated by old, aging, and red-hued stars. This stands in contrast to the liveliness of spiral galaxies such as our home galaxy, the Milky Way, which possess significant populations of young, blue stars in spiral arms swirling around a bright core.

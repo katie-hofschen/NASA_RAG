@@ -1,0 +1,2 @@
+8 Must-Have NASA Resources for Science Teachers in 2024 
+ NASA missions are a perfect way to bring together science and engineering. In PLANETS units, learners in grades 3-8 engineer technologies like optical filters and use them to answer scientific questions like "Where was water on Mars?" Activities emphasize NASA planetary science and engineering and are designed to empower all learners and show that they can be scientists and engineers.

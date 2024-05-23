@@ -1,0 +1,2 @@
+Two Small NASA Satellites Will Measure Soil Moisture, Volcanic Gases 
+ “There are two science objectives for HyTI. We want to try and improve how we can predict when a volcano will erupt and when a volcanic eruption is going to end,” said Wright. "And we’re also going to be measuring soil moisture content as it pertains to drought."

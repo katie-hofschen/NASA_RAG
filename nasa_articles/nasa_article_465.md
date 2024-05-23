@@ -1,0 +1,10 @@
+Building a Community of Practice 
+ The Thermal and Fluids Analysis Workshop (TFAWS) is an annual event cosponsored by the NESC’s Thermal Control & Protection, Environmental Control & Life Support, Aerosciences, and Cryogenics Technical Discipline Teams in collaboration with the TFAWS Steering Committee. It is well known for a diverse set of events and remains a model for Community of Practice technical discipline workshops. Originally devised as an analysis tool training opportunity for new engineers, TFAWS has grown in scope over more than three decades to include a variety of activities including training, theory-based short courses, paper sessions, student posters, center tours, and vendor presentations. Most important though, it remains an excellent forum for technical interchange between thermal, fluids, cryogenics, and aerothermal professionals from across NASA, other U.S. government agencies, industry, and academia. After three virtual workshops due to the COVID pandemic, TFAWS resumed as an in-person event in 2023 under the planning leadership of GSFC, this year’s host center.
+
+TFAWS has become known as a forum to train the next generation of engineers. A poster session gave students an opportunity to showcase their work and build connections with engineers in government and industry. A “speed mentoring” event was initiated this year and gave many early career engineers and students an opportunity to benefit from the experience of senior engineers and leaders.
+
+This year’s event drew a total of 350 attendees representing NASA, the aerospace industry, academia, and international participants from 23 countries. The 4-day workshop consisted of 80 paper presentations, 16 short courses and panel discussions, 7 analysis tool and hardware hands-on short courses, 14 vendor participants, and 13 hardware and analysis tool vendor presentations. Tours highlighting GSFC facilities were provided the day after the workshop adjourned.
+
+GSFC’s Jordan Effron builds a multi-layer insulation blanket during a hands-on short course
+
+Dr. Bhanu Sood discusses GSFC technology development strategy and technical thrusts during a lunchtime talk.

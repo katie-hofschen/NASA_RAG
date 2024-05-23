@@ -1,0 +1,2 @@
+Hubble Spots the Spider Galaxy 
+ The data in this image come from two Hubble observing programs. The first used Hubble’s Advanced Camera for Surveys to look at relatively nearby galaxies in an effort to build color versus brightness diagrams of the stars in these galaxies. Each observation only took one Hubble orbit (about 95 minutes) but provided a valuable archival record of the types of stars in different galaxies and therefore different environments.

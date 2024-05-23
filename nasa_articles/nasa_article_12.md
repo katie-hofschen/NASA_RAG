@@ -1,0 +1,2 @@
+Webb Cracks Case of Inflated Exoplanet 
+ If WASP-107 b instead has more of its mass in the core, the atmosphere should have contracted as the planet cooled over time since it formed. Without a source of heat to re-expand the gas, the planet should be much smaller. Although WASP-107 b has an orbital distance of just 5 million miles (one-seventh the distance between Mercury and the Sun), it doesn’t receive enough energy from its star to be so inflated.

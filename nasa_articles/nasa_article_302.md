@@ -1,0 +1,2 @@
+More Than 36,000 Volunteers Helped Do NASA Eclipse Science 
+ Science is a methodical process and sometimes a slow process. Data are still arriving from cell phones and computers around the country. It will probably take months or even years for scientists to check and analyze the data, compare it with data on previous eclipses, and publish it in the refereed scientific literature.

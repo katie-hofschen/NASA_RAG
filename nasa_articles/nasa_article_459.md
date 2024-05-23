@@ -1,0 +1,2 @@
+NASA’s Tiny BurstCube Mission Launches to Study Cosmic Blasts 
+ When a gamma ray enters one of BurstCube’s four detectors, it encounters a cesium iodide layer called a scintillator, which converts it into visible light. The light then enters another layer, an array of 116 silicon photomultipliers, that converts it into a pulse of electrons, which is what BurstCube measures. For each gamma ray, the team sees one pulse in the instrument readout that provides the precise arrival time and energy. The angled detectors inform the team of the general direction of the event.

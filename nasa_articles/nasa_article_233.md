@@ -1,0 +1,4 @@
+Two NASA Sounding Rockets Launch from Alaska During Solar Flare 
+ Two Black Brant IX sounding rockets launched from Poker Flat Research Range in Fairbanks, Alaska, April 17, 2024, during an M-class solar flare for NASA’s sounding rocket solar flare campaign. The first rocket launched at 2:13 p.m. local Alaska time for the Focusing Optics X-ray Solar Imager (FOXSI) mission that used X-ray vision to observe the Sun during the solar flare event by focusing directly on high-energy X-rays. The second rocket launched at 2:14 p.m. for the High Resolution Coronal Imager, or Hi-C, mission designed to observe a large, active region in the Sun’s corona. The rockets reached altitudes up to 168 miles (271 km) and were able to successfully observe the solar flare.
+
+Photo Credit: NASA/Lee Wingfield

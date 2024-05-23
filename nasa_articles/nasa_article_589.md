@@ -1,0 +1,2 @@
+Students Become FjordPhyto Volunteers and Discover that Antarctica Is Much Colder Than Texas 
+ “We were actually collecting samples for them to look at these phytoplankton communities and how they are changing over time,” said Dr. Wiederwohl, an oceanographer at Texas A&M University. “Phytoplankton are these tiny microscopic plants in the ocean that photosynthesize and produce about half of our oxygen worldwide. So every other breath we take is actually oxygen coming from the ocean.”

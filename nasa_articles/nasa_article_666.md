@@ -1,0 +1,4 @@
+Papers on Solar Jets and Potential Solar Mission Published 
+ Alphonse Sterling (ST13)) is lead author on a paper describing coronal jets in solar active regions. The paper is entitled: “Solar Active Region Coronal Jets. III. Hidden-onset Jets,” and appears in The Astrophysical Journal 2024, 960, 109. Read the paper at: https://ui.adsabs.harvard.edu/abs/2024ApJ…960..109S/abstract.
+
+Sterling is also co-author on a paper describing a potential future solar mission, consisting of four satellites positioned for substantial coverage of the Sun, the corona, and the inner heliosphere and solar wind. It is entitled: “The multiview observatory for solar terrestrial science (MOST),” and is led by Nat Gopalswamy of NASA/GSFC. It appears in the Journal of Atmospheric and Solar-Terrestrial Physics 2024, 254, article id. 106165. https://ui.adsabs.harvard.edu/abs/2024JASTP.25406165G/abstract.

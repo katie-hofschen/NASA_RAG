@@ -1,0 +1,4 @@
+OSDR hosts Blue Origin Erika Wagner 
+ Open Science Data Repository Team Hosts Blue Origin’s Dr Erika Wagner at the Meet the Expert Seminar Series Focused on Flight Integrators
+
+Friday, March 29, 2024—The Open Science Data Repository hosted the sixth presentation showcasing flight integrators in the “Meet the Expert” series. This series is targeted for the Open Science Analysis Working Group (AWG) community to aide their space biology experiments. In this latest presentation, Dr Erika Wagner—a Senior Director of Emerging Market Development for Blue Origin—provided an introduction to Blue Origin, and how to participate in conducting microgravity research on their platforms. She also spoke a bit to her personal journey from biomedical engineering to aerospace. This meeting included a one-hour presentation that was attended by 26 AWG members followed by a networking social happy hour where AWG members continued to connect with the expert as well as each other.

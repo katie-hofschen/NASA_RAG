@@ -1,0 +1,28 @@
+Splashdown 101: Joint Team to Recover Crew, Orion After Moon Missions 
+ NASA’s Artemis II crew members are assisted by U.S. Navy personnel as they exit a mockup of the Orion spacecraft onto an inflatable “front porch” while NASA’s Exploration Ground System’s Landing and Recovery team and partners from the Department of Defense aboard the USS San Diego practice recovery procedures using the Crew Module Test Article, during Underway Recovery Test 11 (URT-11) off the coast of San Diego, California on Sunday, Feb. 25, 2024. NASA/Jamie Peer
+
+When Artemis II NASA astronauts Reid Wiseman, Victor Glover, Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen return to Earth after a nearly 10-day mission around the Moon, a joint NASA and Department of Defense team led by NASA’s Exploration Ground Systems Program will be ready to retrieve them from the Orion spacecraft and ferry them onto a naval ship in the Pacific Ocean.
+
+As Orion enters Earth’s atmosphere, the capsule will keep the crew safe as it slows from nearly 25,000 mph to about 300 mph, when its system of 11 parachutes will deploy in a precise sequence to help slow the capsule and crew to a relatively gentle 20 mph for splashdown about 60 miles off the coast of California, weather permitting.
+
+Prior to splashdown, a team from NASA’s Johnson Space Center in Houston, called Sasquatch, will map where elements jettisoned from Orion such as the forward bay cover, drogue parachutes, and mortars, will land in the Ocean so the boats and helicopters supporting recovery stay clear of those areas.
+
+NASA Artemis II crew members are assisted by U.S. Navy personnel as they exit a mockup of the Orion spacecraft in the Pacific Ocean during Underway Recovery Test 11 (URT-11) on Feb. 25, 2024, while his crewmates look on. URT-11 is the eleventh in a series of Artemis recovery tests, and the first time NASA and its partners put their Artemis II recovery procedures to the test with the astronauts. NASA/Kenny Allen
+
+Once it is safe to approach the capsule, helicopters, and a team of Navy divers in small boats, along with NASA’s open water lead, will begin making their way to the capsule. The Navy divers then will assess the environment surrounding the capsule to make sure there are no hazards present.
+
+Teams will stabilize Orion before the crew exits the capsule in the open water by installing an inflatable collar. To safely retrieve the astronauts, the divers also will install an inflatable raft, called the front porch, under Orion’s side hatch to aid in astronaut retrieval from the capsule.
+
+“Our highly choreographed recovery operations will help ensure the final phase of NASA’s first crewed mission to the Moon in more than 50 years ends as a success,” said Lili Villareal, NASA’s landing and recovery director.
+
+When all four crew members are out of the capsule, the front porch is repositioned about 100 yards from Orion to allow the astronauts to be individually lifted into a helicopter and returned to the ship. Two helicopters will be deployed to retrieve the crew. The helicopters will each retrieve two crewmembers and deliver them to the deck of the naval ship.
+
+Once on the ship, the astronauts will be transported to a medical bay for a post-mission evaluation before flying on a helicopter from the ship back to shore and then to Johnson. Teams expect to recover the crew and deliver them to the medical bay within two hours of splashdown. If the crew returns to Earth at night, teams expect the recovery activities to take a bit longer but still must meet a requirement to have the crew in the medical bay within two hours.
+
+With the crew safely out of the capsule, teams will work on towing Orion into the well deck of the ship, using procedures similar to those used during Artemis I. Navy divers will secure a system of lines to the capsule via several connection points on a collar to help tow Orion inside the ship.
+
+NASA’s Artemis II crew members (front to back) NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen descend the well deck of the USS San Diego as NASA’s Exploration Ground System’s Landing and Recovery team and partners from the Department of Defense aboard the ship practice recovery procedures using the Crew Module Test Article, during Underway Recovery Test 11 (URT-11) off the coast of San Diego, California on Sunday, Feb. 25, 2024. Photo credit: NASA/Isaac Watson
+
+When Orion is close to the vessel, an additional line attached to a pneumatic winch will be affixed to the capsule by the divers. These ropes all work together to ensure the capsule is stable as it is slowly pulled inside the ship. A team of sailors and NASA recovery personnel inside the ship will begin manually pulling some of the lines to help align Orion with the stand it will be placed on once back on the ship.
+
+As the sailors are pulling on the lines, NASA technicians will operate a main winch line attached to the capsule to help bring Orion inside making for a safe and precise recovery. After Orion is on a stand, the well deck will be drained of water and the ship will begin making its way back to Naval Base San Diego. Under NASA’s Artemis campaign, the agency will establish the foundation for long-term scientific exploration at the Moon, land the first woman, first person of color, and its first international partner astronaut on the lunar surface, and prepare for human expeditions to Mars for the benefit of all.

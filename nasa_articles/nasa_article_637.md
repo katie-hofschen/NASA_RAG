@@ -1,0 +1,2 @@
+Night-Shining Cloud Mission Ends; Yields High Science Results for NASA 
+ Known as night-shining or noctilucent clouds, they are seen at twilight in the summer months, typically at high latitudes near the North and South Poles. Before the mission, scientists knew these types of clouds varied with latitude, season, and solar activity, but didn’t know why. This mission was launched to understand the variations and study why the clouds form and their links to climate change by measuring the thermal, chemical, and other properties of the environment in which the clouds form.

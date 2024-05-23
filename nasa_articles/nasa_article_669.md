@@ -1,0 +1,4 @@
+MSFC Disasters Team Leads NASA’s Response to Southeast USA Severe Weather Event 
+ The MSFC Disasters team led the NASA Disasters Program’s response for a recent activation for a severe weather tornadic outbreak in the panhandle of Florida, southeast Alabama, and southwest Georgia. The team supported FEMA Remote Sensing and FEMA Region 4 in providing derived optical imagery products from Landsat and Planet Labs to assist in post-storm damage assessments.
+
+Ronan Lucey (UAH) served as the event lead on behalf of the Disasters Program, with coordination and technical support provided by Jordan Bell (ST11) and Kaylee Sharp (UAH), among others. Both FEMA Remote Sensing and FEMA Region 4 expressed sincere appreciation for the support and noted that the timeliness of the data provided was extremely helpful in their efforts to assess post-storm impacts.

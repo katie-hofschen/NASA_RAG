@@ -1,0 +1,12 @@
+Space Biosciences Tri-Valley Innovation Fair 2024 
+ For the third consecutive year, six Ames Space Biosciences Division and one member from Space Sciences proudly participated in the 6th Tri-Valley Innovation Fair on Saturday, April 13, 2024, in Pleasanton, CA. The fair was a resounding success, providing an excellent platform for showcasing NASA’s contributions to innovation and scientific exploration.
+
+The NASA Booth featured captivating displays by the Astrobiology and Space Biosciences Groups, engaging visitors with cutting-edge research and discoveries. Sigrid Reinsch (SCR) coordinated the SC Division’s booth to include activities and displays about Space Biology model organisms. The Space Biology Group presented a comprehensive overview of model organisms (Drosophila, C. elegans, Arabidopsis, yeast, tardigrades, microbes, mice), research on the International Space Station (ISS), the effects of spaceflight on bone and muscle, BioSentinel, GeneLab, education programs, and more.
+
+The Astrobiology group showcased a diverse collection of rocks with significant implications for life, demonstrating the profound impact of geological interactions on the development and sustenance of living organisms. Interactive elements like astronaut cutouts and an IR camera demo added excitement and engagement to the booth. Attendees were informed about NASA STEM programs, VIPER, and other ongoing missions, highlighting opportunities for education and involvement in space exploration.
+
+The event attracted significant attention, with notable attendees including city officials such as the mayors of Livermore and Pleasanton, the director of Lawrence Livermore National Lab, and approximately 4000 residents from the Tri-Valley area.
+
+Our participation in the 6th Tri-Valley Innovation Fair was instrumental in promoting NASA’s mission, fostering community engagement, and inspiring the next generation of innovators and scientists. We look forward to continuing our involvement in future events and furthering our impact in the realm of space exploration and biosciences.
+
+ARC participants (from left): Egle Cekanaviciute, Parag Vaishampayan, Tara Samuels. Not pictured; April Ronca, Christina Lim, Walter Alvarado, Sanjoy Som and Jonas Dino.

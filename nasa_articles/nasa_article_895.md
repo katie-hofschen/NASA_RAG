@@ -1,0 +1,10 @@
+NASA’s IXPE Awarded Prestigious Prize in High-energy Astronomy – the 2024 Bruno Rossi Prize 
+ The High Energy Astrophysics Division (HEAD) of the American Astronomical Society (AAS) has awarded the 2024 Bruno Rossi Prize to retired NASA astrophysicist Martin Weisskopf (ST12 Emeritus), Italian Space Agency principal investigator Paolo Soffitta, and their team for development of the Imaging X-ray Polarimetry Explorer (IXPE), “whose novel measurements advance our understanding of particle acceleration and emission from astrophysical shocks, black holes and neutron stars,” according to the AAS announcement. Weiskkopf and Soffitta are shown in the image below.
+
+“IXPE is a realization of decades of work and belief in the importance of X-ray polarization measurements for X-ray astronomy,” said Weisskopf of NASA’s Marshall Space Flight Center in Huntsville, Alabama, who served as the principal investigator of IXPE during its development, prior to retiring from the agency in 2022. “I am honored and excited to share this prize with Paolo Soffitta and the entire IXPE team.”
+
+Launched on Dec. 9, 2021, and developed by NASA, the Italian Space Agency, and partners in a dozen countries around the globe, IXPE orbits Earth some 340 miles up to observe X-ray emissions from powerful cosmic phenomena hundreds or thousands of light-years from Earth. In 2023 alone, its subjects of study included blazars such as Markarian 501 and Markarian 421, supernova remnants including Tycho and SN 1006, and the supermassive black hole at the center of our own galaxy.
+
+IXPE also supports study of unanticipated cosmic events – such as the brightest pulse of high-energy radiation ever recorded, which swept through Earth’s solar system in late 2022. IXPE’s success led NASA to formally extend the mission for an additional 20 months, through at least September 2025.
+
+Read the full article at: https://www.nasa.gov/missions/ixpe/nasas-ixpe-awarded-prestigious-prize-in-high-energy-astronomy

@@ -1,0 +1,6 @@
+The Horse’s Mane 
+ Rising from turbulent waves of dust and gas is the Horsehead Nebula, otherwise known as Barnard 33, which resides roughly 1300 light-years away. The NASA/ESA/CSA James Webb Space Telescope has captured the sharpest infrared images to date of one of the most distinctive objects in our skies, the Horsehead Nebula. Webb’s new view focuses on the illuminated edge of the top of the nebula’s distinctive dust and gas structure.
+
+This image of part of the Horsehead Nebula, captured by NASA’s James Webb Space Telescope and released on April 29, 2024, shows the nebula in a whole new light, capturing the region’s complexity with unprecedented spatial resolution. Located roughly 1,300 light-years away, the nebula formed from a collapsing interstellar cloud of material, and glows because it is illuminated by a nearby hot star. The gas clouds surrounding the Horsehead have already dissipated, but the jutting pillar is made of thick clumps of material and therefore is harder to erode. Astronomers estimate that the Horsehead has about 5 million years left before it too disintegrates.
+
+Image Credit: NASA, ESA, CSA, K. Misselt (University of Arizona) and A. Abergel (IAS/University Paris-Saclay, CNRS)

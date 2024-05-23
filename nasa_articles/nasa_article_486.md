@@ -1,0 +1,2 @@
+Sketch the Shape of the Sun for Science During the Solar Eclipse 
+ This NASA-funded citizen science project invites anyone who will be within the path of totality in the U.S. to take photos of the Baily’s Beads effect, which occurs when little points of sunlight pass through the valleys in between the mountains on the edge of the Moon. It’s the last piece of the Sun seen before totality and the first to appear after totality. For a few seconds, these glimmers of light look like beads along the Moon’s edge.

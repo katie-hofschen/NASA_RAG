@@ -1,0 +1,16 @@
+Operational Modal Analysis of the Artemis I Dynamic Rollout Test 
+ Download PDF: Operational Modal Analysis of the Artemis I Dynamic Rollout Test
+
+Operational modal analysis (OMA) techniques have been used to identify the modal characteristics of the Artemis I launch vehicle during the Dynamic Rollout Test (DRT) and Wet Dress Rehearsal (WDR) configuration prior to launch. Forces induced during rollout and on the launch pad are not directly measurable, thus necessitating a unique approach.
+
+NASA is developing the SLS to support lunar and deep space exploration. SLS is integrated inside the Vehicle Assembly Building (VAB) on the mobile launcher (ML), which supports the integrated SLS launch vehicle during transport to the pad through lift-off. The ML also provides the fuel, power, and data umbilicals running to the SLS and Orion Multi-Purpose Crew Vehicle (MPCV), as well as crew access to the MPCV crew module. The ML weighs ~10.6 million pounds and is over 380 feet tall. In the spring of 2022, the SLS was transported on the ML from the VAB to Launch Pad 39B (Figure 1) using the NASA crawler transporter (CT) to make this 4.2 mile trek, which takes ~8 hours. The CT alone weighs ~6.3 million pounds.
+
+Figure 1. Artemis I Rollout to Launch Pad 39B.
+
+Although the rollout environment produces relatively small launch vehicle structural loads in comparison to launch and ascent loads for most structures, the induced loads are fully representative of all loading across the entire vehicle, which is not feasible to replicate using localized shakers as was done in the Integrated Modal Test. As mentioned, forces induced during rollout and on the launch pad are not directly measurable, and OMA techniques were used to identify the modal characteristics of Artemis I in the DRT and WDR configurations. WDR, which typically includes vehicle fueling and other operations to demonstrate launch readiness, included several days of on-pad operations. Data collected for the WDR configuration, with partially filled core fuel tanks and without the CT under the ML, provided engineers another model configuration to check (Figure 2).
+
+Figure 2. Artemis I at Launch Pad 39B.
+
+Acquisition and processing the data from over 300 accelerometers located on Artemis I, ML, and CT was accomplished by a cross-program team of engineers and technicians from across the Agency, including from SLS, Exploration Ground Systems, and the NESC. Using analytical techniques developed from previous rollout tests combined with new data-processing methodologies, the team processed data from preselected CT speed increments during rollout and on-pad during WDR. By making the necessary modifications to the integrated models to match both the DRT and WDR configurations, the team was able to use those results to help make sense of what was being seen in the test data. This proved to be required for OMA testing on this structure, given the type of complex excitation that was being observed.
+
+For information, contact Dexter Johnson dexter.johnson@nasa.gov and Teresa Kinney teresa.l.kinney@nasa.gov.

@@ -1,0 +1,2 @@
+Hubble Studies a Sparkling Galaxy Pair 
+ A pair of small, interacting galaxies shine in this new NASA Hubble Space Telescope image. The larger of the two galaxies is named NGC 5410 and was discovered in 1787 by British astronomer William Herschel. It spans 80,000 light-years across and has a bright white bar of stars at its center. It is also a spiral galaxy with a medium-sized nucleus and spread-out arms. NGC 5410 contains many young, blue star clusters, especially along its arms.

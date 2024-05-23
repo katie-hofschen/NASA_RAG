@@ -1,0 +1,10 @@
+Tech Today: Semiconductor Research Leads to Revolution in Dental Care 
+ Sangi’s Apagard line, launched in 1985, is billed as restorative whitening toothpaste. Credit: Sangi Co. Ltd.
+
+Toothpaste based on the mineral hydroxyapatite, popular across Asia and much of Europe today, is finding its first foothold in the U.S. But the idea behind this alternative to fluoride-based toothpaste was conceived here in a short-lived NASA field center more than 50 years ago.
+
+While working at NASA’s Electronics Research Center – active in Cambridge, Massachusetts, from 1964 to 1970 – Senior scientist Bernard Rubin discovered semiconductor crystals for electronics grew best in a silica gel. He quickly realized this gel diffusion system mimicked how hydroxyapatite crystals grow in bones and teeth, giving them their hardness. Building on this observation, he and a colleague patented a method for repairing a tooth by growing hydroxyapatite crystals on the tooth’s surface.
+
+Monocrystalline silicon ingots like these are grown in labs. A NASA researcher growing crystals for electronics in the 1960s noticed a similarity with the way crystals form in teeth and bones and patented a method for growing hydroxyapatite crystals to repair teeth. Credit: Getty Images
+
+A few years later, a young Japanese businessman named Shuji Sakuma, having just founded Sangi Co. Ltd. in Tokyo, obtained the patented research and set about turning it into a product with the help of dental professionals. Lessons learned from Rubin’s patented methodology inspired the company’s Apadent and Apagard toothpaste lines in the early to mid-1980s. Japan and many other governments now recognize hydroxyapatite as an anticavity agent, and studies have found it to have other benefits, like improving whiteness and reducing sensitivity.

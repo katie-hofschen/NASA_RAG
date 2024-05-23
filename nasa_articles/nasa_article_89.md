@@ -1,0 +1,24 @@
+Johnson Celebrates AA and NHPI Heritage Month: Kimia Seyedmadani 
+ A quest for innovative ideas and development processes led biomedical engineer Kimia Seyedmadani to NASA’s Human Research Program (HRP) in 2018. After working for several years to design and develop cutting-edge medical devices, Seyedmadani became frustrated with resistance to innovative ideas and the regulatory processes with respect to a treatment for pancreatic cancer.
+
+“I got really frustrated and started asking, where are the revolutionary solutions for medical devices?” she said.
+
+Seyedmadani explored a variety of opportunities seeking answers from aerospace companies and engineering programs before connecting with Keith Tucker, chief engineer for HRP’s Research Operation and Integration Group (ROI) and landing a Pathways internship with the program. “He allowed me to ask those questions, think outside of the box, and start closing those gaps in medical device development,” she said.
+
+Her family was shocked that Seyedmadani decided to work for NASA, given that she was an Iranian immigrant. “My sister said it sounded like a Maz Jobrani joke,” she said. When she was hired as a full-time NASA employee in January 2020, Seyedmadani was told that she was the first Iranian immigrant born post-revolution to become a civil servant with the agency.
+
+Kimia Seyedmadani (center) receives the NASA Silver Achievement Medal from Michelle Frieling, director of the Human and Health Performance Directorate, during a ceremony in December 2023. She is joined by her sister, Dr. Katayoun Madani, Global Surgery Policy and Advocacy Baker Institute Fellow and clinical instructor of global surgery at Baylor College of Medicine.
+
+Some aspects of Seyedmadani’s onboarding were different from other NASA employees. She recalls completing her internship trainings through NASA Protective Services and meeting with intelligence officers during times of heightened international tensions but says her peers and colleagues never treated her differently. “I’ve never had a bad experience at NASA,” she said. “I’ve had bad experiences outside of NASA. I had been called a terrorist, and as I was looking for jobs in aerospace, I did get asked to renounce my nationality. I said no, because I can’t say that I don’t have Iranian heritage and I don’t have friends in Iran.”
+
+Since joining the Johnson team, Seyedmadani has worked to design, develop, and certify research payload kits and medical capabilities for Artemis vehicles, and to support ROI’s hardware and software development for HRP. This work involves testing devices, coming up with certification and review processes, and ensuring that products meet established regulations and standards. “If a friend asks me what I do, I say I’m Wreck-It Ralph, I break things all the time,” she joked.
+
+Kimia Seyedmadani, left, with colleague and mentor Keith Tucker, chief engineer for the Human Research Program’s Research Operation and Integration Group.
+
+She also collaborates with the Food and Drug Administration (FDA) to verify that any changes NASA makes to an already-approved medical device, and its expedited flight certification processes, satisfy existing standards and tests perform by the device’s original manufacturer. She frequently interacts with the FDA’s Center for Devices and Radiological Health to identify opportunities to streamline certification processes without sacrificing device safety or quality. “I am learning a lot,” she says. “Before coming to NASA, I developed more than 50 medical devices for the medical device and diagnostic industry, but now I know that it doesn’t work exactly the same way in space. I see how necessity drives innovation.”
+
+The value Johnson places on hiring employees who are naturally curious, open to learning, want to contribute to a team, and bring different knowledge or perspectives to the table is one of the center’s strengths, Seyedmadani said. Encouraging curiosity and learning is critical to both advancing human spaceflight and fostering diversity. “Tolerance is absolutely important to an inclusive environment, and knowing that no question is stupid, as long as you are giving 100%,” she said. She sees an opportunity for more social events and outreach that can help bridge the large age gaps that exist within some teams.
+
+Seyedmadani said the connections she has made at Johnson and the support of her ROI hardware team and Human Systems Engineering and Integration Division management were key to her receiving a NASA Silver Achievement Medal in recognition for her work in HRP and the impact she has made on spaceflight hardware development processes.
+
+“I have a wonderful team that makes me very comfortable, and it is privilege to be around them,” she said. “When questions come up, I can easily ask them, and they will be very open to answer them. That has made my NASA experience and working at JSC very fun for me.”

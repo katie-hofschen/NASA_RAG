@@ -1,0 +1,4 @@
+Why is Methane Seeping on Mars? NASA Scientists Have New Ideas 
+ This image is of another sample of mock Martian “soil” after it was removed from the Mars simulation chamber. The surface is sealed with a solid crust of salt. Alexander Pavlov and his team found that a seal formed after a sample spent three to 13 days under Mars-like conditions, and only if it had 5% to 10% perchlorate salt concentration. The color is lighter in the center where the sample was scratched with a metal pick. The light color indicates a drier soil underneath the top layer, which absorbed moisture from the air as soon as the sample was removed from the simulation chamber, turning brown.
+
+NASA/Alexander Pavlov

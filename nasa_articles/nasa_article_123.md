@@ -1,0 +1,2 @@
+NASA Selects Students for Europa Clipper Intern Program 
+ The Europa Clipper mission’s three main science objectives are to determine the thickness of the moon’s icy shell and its surface interactions with the ocean below, to investigate its composition, and to characterize its geology. The mission’s detailed exploration of Europa will help scientists better understand the astrobiological potential for habitable worlds beyond our planet.

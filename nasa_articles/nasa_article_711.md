@@ -1,0 +1,12 @@
+White Papers 
+ White Paper, “Space Data Ethics: The Next Frontier in Responsible Leadership"
+
+White Paper, “Space Data Ethics: The Next Frontier in Responsible Leadership,” prepared by the Climate and Societal Benefits Subcommittee. This is a position paper in support of a recommendation to develop the principles of space data ethics. Completed December 1, 2023.
+
+White Paper, “Enhancing Agricultural Resilience, Enabling Scalable Sustainability, and Ensuring Food Security through Space-based Earth Observations,”
+
+White Paper, “Enhancing Agricultural Resilience, Enabling Scalable Sustainability, and Ensuring Food Security through Space-based Earth Observations,” prepared by the Climate and Societal Benefits Subcommittee. This is a position paper supporting the recommendations of the Climate and Societal Benefits Subcommittee. It highlights agriculture as a use case to explore the applications and current challenges surrounding wide-scale utilization Earth Observation (EO). While EO holds promise for many applications, including the aforementioned, there are multiple challenges identified by this Users’ Advisory Group (UAG) subcommittee that must be addressed to fully realize EO’s potential to address these challenges and the impact of climate change. These include data quality, data accessibility, the need for additional information to contextualize EO insights, mission continuity/resilience, and institutional barriers that limit innovation. Completed December 1, 2023.
+
+White Paper, “The Earth Information Action Lead: Strengthening Leadership to Enhance U.S. Earth Observation in Support of Climate and Societal Benefits"
+
+White Paper, “The Earth Information Action Lead: Strengthening Leadership to Enhance U.S. Earth Observation in Support of Climate and Societal Benefits,” prepared by the Climate and Societal Benefits Subcommittee. This is a position paper in support of a recommendation establish an over-arching leadership role within the National Security Council to assess, prioritize, and guide the Nation’s multi-agency EO effort along with consideration of private sector capabilities for the purpose of accelerating and improving environmental information and action promoting greater resiliency. Completed January 29, 2024.

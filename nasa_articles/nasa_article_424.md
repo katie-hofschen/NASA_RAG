@@ -1,0 +1,2 @@
+IXPE Operations Update 
+ On March 26, using procedures developed following that previous interruption, the team initiated a spacecraft avionics reset to address the issue, which put IXPE into a planned safe mode. The team has confirmed that IXPE is once again transmitting valid telemetry data and is now working to resume science operations, in as rapid and safe a manner as possible. The spacecraft is in good health.

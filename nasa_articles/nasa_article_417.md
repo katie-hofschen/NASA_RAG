@@ -1,0 +1,8 @@
+Eclipse Citizen Science for Educators 
+ Review the project descriptions to help choose the best one for you. Whittle your choice down to 1 or 2 projects. If you need a day-of-eclipse project, pick a second one that you can do anytime as a practice project for yourself.
+
+Do the project yourself. If you want to do a day-of eclipse project that is not yet available, pick another project to practice with. It will give you a sense of how these opportunities are structured and what it might feel like for your learners to participate. Read the project website, complete the preparation or training materials, and do the task enough to get a feel for what’s involved, what’s tricky, and what’s fun or satisfying about it. You don’t need to master the project or solve all problems that might arise. Do it until you have a sense for what participation feels like and what learning opportunities the project or task includes.
+
+When you introduce the project to your learners, emphasize that this is a real chance to do scientific research alongside other interested people around the world and with the professional team leading the project. Don’t hesitate to remind them that this is a NASA project working with NASA scientists!
+
+Are you an informal educator? Incorporate a citizen science project into an existing program with a small and/or familiar audience, or recruit a small group of volunteers or docents to try it with you. Set clear expectations (“we’ll be learning this together!”) and go for it. You will learn more about how to lead others through a project by trying it than any other way. Adjust your approach as you learn.

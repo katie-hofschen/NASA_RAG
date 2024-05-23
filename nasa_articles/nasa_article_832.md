@@ -1,0 +1,2 @@
+For Your Processing Pleasure: The Sharpest Pictures of Jupiter’s Volcanic Moon Io in a Generation 
+ On Dec. 30th, 2023, Juno came within about 930 miles (1,500 kilometers) of the surface of the solar system’s most volcanic world. It made a second ultra-close flyby of Io just this week. The second pass went predominantly over the southern hemisphere of Io, while prior flybys have been over the north. There’s a lot to see in these photos! There’s evidence of an active plume, tall mountain peaks with well-defined shadows, and lava lakes—some with apparent islands.

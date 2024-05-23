@@ -1,0 +1,2 @@
+AI for Earth: How NASA’s Artificial Intelligence and Open Science Efforts Combat Climate Change 
+ “To build a foundation model at scale, we realized early on that it's not feasible for one institution to build it,” Maskey said. “Everything we have done on our foundation models has been open to the public, all the way from pre-training data, code, best practices, model weights, fine-tuning training data, and publications. There’s transparency, so researchers can trace why certain things were used in terms of data or model architecture.”

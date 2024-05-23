@@ -1,0 +1,8 @@
+A Clinical Decision Support System for Earth-independent Medical Operations 
+ Deep space exploration requires a paradigm shift in astronaut medical support toward Earth-independent medical operations. Currently, astronauts rely on real-time communication with ground-based medical providers. However, as the distance from Earth increases, so do communication delays and disruptions. Deep space exploration crews will need to autonomously detect, diagnose, treat, and prevent medical conditions. One potential solution is to augment the long duration exploration crew’s knowledge, skills, and abilities with a digital clinical decision support system, or CDSS. The Exploration Medical Capability (ExMC) element of NASA’s Human Research Program is investigating the feasibility and value of advanced capabilities to promote and enhance EIMO.
+
+Main findings: The ExMC research team has produced a CDSS concept in which medical data would be continuously gathered, through both passive and active monitoring, and delivers real-time guidanance. This helps improve patient outcomes and reduce the workload of health maintenance.
+
+Impact: The assistive technology of ExMC’s envisioned CDSS stands to significantly enhance a crew’s medical capability. Private applications for this approach are currently being considered by commercial space flight programs, a timely example of how ARC Space Biosciences research benefits the entire space sector.
+
+Reference: Russell, B., Burian, B., …, Beard, B., Martin, K., Pletcher, D., … The value of a spaceflight clinical decision support system for earth-independent medical operations. Nature: NPJ Microgravity 9, 46 (2023).

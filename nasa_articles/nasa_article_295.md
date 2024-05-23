@@ -1,0 +1,38 @@
+NASA’s PACE Data on Ocean, Atmosphere, Climate Now Available 
+ NASA’s PACE satellite’s Ocean Color Instrument (OCI) detects light across a hyperspectral range, which gives scientists new information to differentiate communities of phytoplankton – a unique ability of NASA’s newest Earth-observing satellite. This first image released from OCI identifies two different communities of these microscopic marine organisms in the ocean off the coast of South Africa on Feb. 28, 2024. The central panel of this image shows Synechococcus in pink and picoeukaryotes in green. The left panel of this image shows a natural color view of the ocean, and the right panel displays the concentration of chlorophyll-a, a photosynthetic pigment used to identify the presence of phytoplankton. Credit: NASA
+
+NASA is now publicly distributing science-quality data from its newest Earth-observing satellite, providing first-of-their-kind measurements of ocean health, air quality, and the effects of a changing climate.
+
+The Plankton, Aerosol, Cloud, ocean Ecosystem (PACE) satellite was launched on Feb. 8, and has been put through several weeks of in-orbit testing of the spacecraft and instruments to ensure proper functioning and data quality. The mission is gathering data that the public now can access at https://pace.oceansciences.org/access_pace_data.htm.
+
+PACE data will allow researchers to study microscopic life in the ocean and particles in the air, advancing the understanding of issues including fisheries health, harmful algal blooms, air pollution, and wildfire smoke. With PACE, scientists also can investigate how the ocean and atmosphere interact with each other and are affected by a changing climate.
+
+“These stunning images are furthering NASA’s commitment to protect our home planet,” said NASA Administrator Bill Nelson. “PACE’s observations will give us a better understanding of how our oceans and waterways, and the tiny organisms that call them home, impact Earth. From coastal communities to fisheries, NASA is gathering critical climate data for all people.”
+
+“First light from the PACE mission is a major milestone in our ongoing efforts to better understand our changing planet. Earth is a water planet, and yet we know more about the surface of the moon than we do our own oceans. PACE is one of several key missions – including SWOT and our upcoming NISAR mission – that are opening a new age of Earth science,” said Karen St. Germain, NASA Earth Science Division director.
+
+PACE’s OCI instrument also collects data that can be used to study atmospheric conditions. The top three panels of this OCI image depicting dust from Northern Africa carried into the Mediterranean Sea, show data that scientists have been able to collect in the past using satellite instruments – true color images, aerosol optical depth, and the UV aerosol index. The bottom two images visualize novel pieces of data that will help scientists create more accurate climate models. Single-Scattering Albedo (SSA) tells the fraction of light scattered or absorbed, which will be used to improve climate models. Aerosol Layer Height tells how low to the ground or high in the atmosphere aerosols are, which aids in understanding air quality. Credit: NASA/UMBC
+
+The satellite’s Ocean Color Instrument, which was built and managed by NASA’s Goddard Space Flight Center in Greenbelt, Maryland, observes the ocean, land, and atmosphere across a spectrum of ultraviolet, visible, and near infrared light. While previous ocean color satellites could only detect a handful of wavelengths, PACE is detecting more than 200 wavelengths. With this extensive spectral range, scientists can identify specific communities of phytoplankton. Different species play different roles in the ecosystem and carbon cycle — most are benign, but some are harmful to human health — so distinguishing phytoplankton communities is a key mission of the satellite.
+
+PACE’s two multi-angle polarimeters, HARP2 and SPEXone, measure polarized light that has reflected off clouds and tiny particles in the atmosphere. These particles, known as aerosols, can range from dust to smoke to sea spray and more. The two polarimeters are complementary in their capabilities. SPEXone, built at the Netherlands Institute for Space Research (SRON) and Airbus Netherlands B.V., will view Earth in hyperspectral resolution – detecting all the colors of the rainbow – at five different viewing angles. HARP2, built at the University of Maryland, Baltimore County (UMBC), will observe four wavelengths of light, with 60 different viewing angles.
+
+Early data from the SPEXone polarimeter instrument aboard PACE show aerosols in a diagonal swath over Japan on Mar. 16, 2024, and Ethiopia on Mar. 6, 2024. In the top two panels, lighter colors represent a higher fraction of polarized light. In the bottom panels, SPEXone data has been used to differentiate between fine aerosols, like smoke, and coarse aerosols, like dust and sea spray. SPEXone data can also measure how much aerosols are absorbing light from the Sun. Above Ethiopia, the data show mostly fine particles absorbing sunlight, which is typical for smoke from biomass burning. In Japan, there are also fine aerosols, but without the same absorption. This indicates urban pollution from Tokyo, blown toward the ocean and mixed with sea salt. The SPEXone polarization observations are displayed on a background true color image from another of PACE’s instruments, OCI. Credit: SRON
+
+With these data, scientists will be able to measure cloud properties — which are important for understanding climate — and monitor, analyze, and identify atmospheric aerosols to better inform the public about air quality. Scientists will also be able to learn how aerosols interact with clouds and influence cloud formation, which is essential to creating accurate climate models.
+
+Early images from PACE’s HARP2 polarimeter captured data on clouds over the west coast of South America on Mar. 11, 2024. The polarimetry data can be used to determine information about the cloud droplets that make up the cloudbow – a rainbow produced by sunlight reflected by cloud droplets instead of rain droplets. Scientists can learn how the clouds respond to man-made pollution and other aerosols and can measure the size of the cloud droplets with this polarimetry data. Credit: UMBC
+
+“We’ve been dreaming of PACE-like imagery for over two decades. It’s surreal to finally see the real thing,” said Jeremy Werdell, PACE project scientist at NASA Goddard. “The data from all three instruments are of such high quality that we can start distributing it publicly two months from launch, and I’m proud of our team for making that happen. These data will not only positively impact our everyday lives by informing on air quality and the health of aquatic ecosystems, but also change how we view our home planet over time.”
+
+The PACE mission is managed by NASA Goddard, which also built and tested the spacecraft and the ocean color instrument. The Hyper-Angular Rainbow Polarimeter #2 (HARP2) was designed and built by the University of Maryland, Baltimore County, and the Spectro-polarimeter for Planetary Exploration (SPEXone) was developed and built by a Dutch consortium led by Netherlands Institute for Space Research, Airbus Defence, and Space Netherlands.
+
+By Erica McNamee
+
+NASA’s Goddard Space Flight Center, Greenbelt, Md.
+
+News Media Contact
+
+Jacob Richmond
+
+NASA’s Goddard Space Flight Center, Greenbelt, Md.

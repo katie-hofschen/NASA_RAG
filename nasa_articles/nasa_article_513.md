@@ -1,0 +1,2 @@
+NASA Delivers Science Instrument to JAXA’s Martian Moons Mission 
+ Scientists suspect the asteroid-sized bodies either are remnants of an ancient collision between Mars and a large impactor or are themselves asteroids captured by Mars’ gravity. By measuring the energies of neutrons and gamma rays emitted from the surface of Phobos, MEGANE will let MMX “see” the elemental composition of the moon’s surface and help peg the likely origin of the moon.

@@ -1,0 +1,2 @@
+NASA SCoPE PI, Meenakshi Wadhwa, inducted to National Academy of Sciences 
+ “I am honored and humbled to be among those included in this NAS class,” Wadhwa said. “I believe though that this honor reflects, more than anything, the incredible intellectual environment and amazing opportunities I have had during my nearly 18 years at ASU, and the caliber of the colleagues, postdocs and students I’ve had the good fortune to work with here.”

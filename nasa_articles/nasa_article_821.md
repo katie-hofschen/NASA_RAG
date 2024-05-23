@@ -1,0 +1,2 @@
+NASA’s Hubble Traces ‘String of Pearls’ Star Clusters in Galaxy Collisions 
+ The fate of these strung-out star clusters is uncertain. They may stay gravitationally intact and evolve into globular star clusters – like those that orbit outside the plane of our Milky Way galaxy. Or they may disperse to form a halo of stars around their host galaxy, or get cast off to become wandering intergalactic stars.

@@ -1,0 +1,2 @@
+Major Martian Milestones 
+ A new project from the Cloudspotting on Mars team has started its beta testing phase! In this new project, you’ll pick out cloud shapes in data from NASA’s Mars Atmosphere and Volatile Evolution (MAVEN) Mission. If you're willing to help beta test this project and provide feedback before it launches, please send an email to the team . We'll let everyone know when this project officially launches, of course!

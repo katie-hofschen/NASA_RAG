@@ -1,0 +1,12 @@
+Luxembourg Leaders Focus on Lunar Exploration at Visit to NASA Ames 
+ Using the Lunar Lab and Regolith Testbeds at NASA’s Ames Research Center, a team created this simulated lunar environment to study lighting conditions experienced at the unexplored poles of the Moon. NASA/Uland Wong
+
+The challenges of working on the surface of the Moon are at the center of a facility at NASA’s Ames Research Center in California’s Silicon Valley. The Lunar Lab and Regolith Testbeds help scientists and engineers – from NASA and industry alike – study how well science instruments, robots, and people might be able to safely work, manipulate, navigate, and traverse the tough lunar terrain. On March 7, three visitors from the Grand Duchy of Luxembourg – Deputy Prime Minister Xavier Bettel, Minister of the Economy Lex Delles, and Ambassador to the United States Nicole Bintner – learned more about the work happening here.
+
+During the visit, lunar rock and crater features crafted from lunar soil, or regolith, simulant were lit by harsh, low-angle illumination to simulate sunlight conditions at the Moon’s poles. Members of the VIPER mission (Volatiles Investigating Polar Exploration Rover) discussed their work testing optical sensors at the lab for NASA’s water-hunting Moon rover. Engineering versions of VIPER’s hazard-avoidance cameras and lighting system, tested in the facility, were also on display. The lab is managed by NASA’s Solar System Exploration Research Virtual Institute (SSERVI).
+
+Acting Deputy Center Director David Korsmeyer, left, Ames Center Director Eugene Tu, Deputy Prime Minister of Luxembourg Xavier Bettel, Luxembourg Minister of Economy Lex Delles, and Ambassador Nicole Bintner, right, meet at Ames on March 7, 2024. NASA/Brandon Torres
+
+The Regolith Testbeds enable research applicable to places beyond our Moon as well, including Mercury, asteroids, and regolith-covered moons like Mars’ Phobos.
+
+Luxembourg was one of the first nations to sign the Artemis Accords and has taken steps to enable commercial space exploration. At Ames, the visitors learned about the center’s support of NASA’s Artemis exploration goals, including with VIPER, agency supercomputing resources, and the development of advanced tools for lunar operations.

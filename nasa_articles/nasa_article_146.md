@@ -1,0 +1,2 @@
+May’s Night Sky Notes: Stargazing for Beginners 
+ Keep track of Moon phases. Both the interactive sky maps and apps will also let you know when planets and our Moon are out! This is especially important because if you are trying to look for bright deep sky objects, like the Andromeda Galaxy or the Perseus Double Cluster, you want to avoid the Moon as much as possible. Moonlight in a dark sky area will be as bright as a streetlight, so plan accordingly! And if the Moon is out, check out this Skywatcher’s Guide to the Moon: bit.ly/MoonHandout

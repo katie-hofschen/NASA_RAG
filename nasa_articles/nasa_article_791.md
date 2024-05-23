@@ -1,0 +1,10 @@
+Into the Belly of the Rover: VIPER’s Final Science Instrument Installed 
+ A team of engineers prepares to integrate TRIDENT – short for The Regolith Ice Drill for Exploring New Terrain – into the belly of NASA’s first robotic Moon rover, VIPER – short for the Volatiles Investigating Polar Exploration Rover. NASA/Bill Stafford
+
+A team of engineers prepares to integrate TRIDENT – short for The Regolith Ice Drill for Exploring New Terrain – into the belly of NASA’s first robotic Moon rover, VIPER (Volatiles Investigating Polar Exploration Rover).
+
+TRIDENT, designed and developed by engineers at Honeybee Robotics in Altadena, California, is the fourth and final science instrument to be installed into VIPER. NASA engineers have already successfully integrated VIPER’s three other science instruments into the rover. These include: the MSOLO (Mass Spectrometer Observing Lunar Operations), NIRVSS (Near-Infrared Volatiles Spectrometer System), and NSS (Neutron Spectrometer System).
+
+Shortly after TRIDENT was integrated in the clean room at NASA’s Johnson Space Center in Houston, the team also successfully tested its ability to power on, release the locks that hold the drill in place during launch, extend to its full depth of more than three feet (one meter), perform percussive drilling, and return to its stowed position inside the rover.
+
+TRIDENT will dig up soil from below the lunar surface using a rotary percussive drill – meaning it both spins to cut into the ground and hammers to fragment hard material for more energy-efficient drilling. In addition to being able to measure the strength and compactedness of the lunar soil, the drill also carries a temperature sensor to take readings below the surface. VIPER will launch to the Moon aboard Astrobotic’s Griffin lunar lander on a SpaceX Falcon Heavy rocket as part of NASA’s Commercial Lunar Payload Services initiative. It will reach its destination at Mons Mouton near the Moon’s South Pole. Scientists will work with these four instruments to better understand the origin of water and other resources on the Moon, which could support human exploration as part of NASA’s Artemis campaign.

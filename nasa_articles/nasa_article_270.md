@@ -1,0 +1,2 @@
+NASA’s Fermi Mission Sees No Gamma Rays from Nearby Supernova 
+ “Astrophysicists previously estimated that supernovae convert about 10% of their total energy into cosmic ray acceleration,” said Guillem Martí-Devesa, a researcher at the University of Trieste in Italy. “But we have never observed this process directly. With the new observations of SN 2023ixf, our calculations result in an energy conversion as low as 1% within a few days after the explosion. This doesn’t rule out supernovae as cosmic ray factories, but it does mean we have more to learn about their production.”

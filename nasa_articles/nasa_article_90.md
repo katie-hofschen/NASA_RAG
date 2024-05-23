@@ -1,0 +1,2 @@
+NASA, JAXA XRISM Spots Iron Fingerprints in Nearby Active Galaxy 
+ The galaxy is also active, which means its center is unusually bright and variable. Gas and dust swirling toward the black hole form an accretion disk around it and heat up through gravitational and frictional forces, creating the variability. Some of the matter on the brink of the black hole forms twin jets of particles that blast out from each side of the disk at nearly the speed of light. A puffy donut-shaped cloud of material called a torus surrounds the accretion disk.

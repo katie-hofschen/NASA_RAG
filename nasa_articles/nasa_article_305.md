@@ -1,0 +1,4 @@
+Sometimes Getting the Perfect Picture Really Is Rocket Science 
+ NASA Engineer Cindy Fuentes Rosal waves goodbye to a Black Brant IX sounding rocket launching from NASA’s Wallops Flight Facility in Virginia during the total solar eclipse on April 8, 2024. The rocket was part of a series of three launches for the Atmospheric Perturbations around Eclipse Path (APEP) mission to study the disturbances in the electrified region of Earth’s atmosphere known as the ionosphere created when the Moon eclipses the Sun. The rockets launched before, during, and after peak local eclipse time on the Eastern Shore of Virginia.
+
+Photo Credit: NASA/Chris Pirner

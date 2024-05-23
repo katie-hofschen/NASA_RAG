@@ -1,0 +1,12 @@
+Tech Today: Suspended Solar Panels See the Light 
+ The Ivanpah Solar Electric Generating System is an example of a concentrated solar power plant, which works by having hundreds of reflective panels heating up a central tower. The problem of keeping sunlight directed at the receiver throughout the day brought Jim Clair to request NASA’s help in validating the suspended design now used in Skysun solar power systems. Credit: Cliff Ho/U.S. Department of Energy
+
+In the 80 years since the shocking collapse of the Tacoma Narrows Bridge in Washington, engineers have designed suspended structures to minimize their universal weakness: resonance. If not designed to deal with oscillations caused by forces like wind, the frequency of these forces would cause tensions to build and inevitably break the structure.
+
+When Jim Clair examined how to focus mirrors at a concentrated solar energy power plant, he thought about suspending the mirrors on cables but remembered the images of the Tacoma Narrows Bridge shaking itself apart. To determine how well these suspended solar panels would hold up to potentially destructive oscillations, Clair, and his company Skysun LLC in Cleveland, Ohio, sought the help of NASA’s Glenn Research Center in 2016 to verify his design was safe from dangerous resonance.
+
+The Skysun Solar Pollinator is designed to be suspended above plants that thrive in partial shade, and it can generate up to two kilowatts of power. The suspended design was validated by Glenn Research Center dynamicists under the Adopt-A-City program. Credit: Skysun LLC
+
+Trevor Jones, a dynamicist at Glenn, went to nearby Lorain County Community College to work with a prototype of the system. Jones induced vibrations in the cables with hammers and took measurements of the resulting oscillations. Based on this data, Jones designed a program that could accurately model the design’s tensile strength against wind-induced oscillations at any scale. With the dimensions plugged in, the program did the math and proved that Clair’s idea would work without shaking apart.
+
+Today, Skysun builds various suspended solar energy generation systems, ranging from the hammock-like Skysun Solar Pollinator to full-sized solar pergolas that provide both electricity and shade.

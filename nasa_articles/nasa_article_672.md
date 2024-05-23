@@ -1,0 +1,6 @@
+“Trends in Nighttime Fires in South/Southeast Asian Countries” Published in the Journal Atmosphere 
+ Krishna Vadrevu (ST11) served as the primary author, with Aditya Eaturu (UAH) as co-author, for the paper titled “Trends in Nighttime Fires in South/Southeast Asian Countries,” published in the journal Atmosphere. The research focuses on nighttime vegetation fire trends using VIIRS I-band (375 m) data from 2012 to the present, encompassing different years and affected vegetation types. Additionally, the study includes a comparative assessment of nighttime fire detections from VIIRS I-band (375 m) data with Sentinel-3A SLSTR.
+
+The paper explores possible reasons for variations in nighttime fire detections between the two satellites and discusses their implications. Furthermore, the study highlights countries where nighttime fires pose a significant and increasing problem. Overall, the paper provides valuable insights into nighttime fires and trends, offering useful information for fire prevention, mitigation, and management in the Asian region.
+
+The full paper can be read at: https://www.mdpi.com/2073-4433/15/1/85.

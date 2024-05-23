@@ -1,0 +1,4 @@
+NASA Glenn continued a decades-long tradition of participating in the Marine Corps Reserve Toys for Tots program during the 2023 holiday season. 
+ Members of the Marine Corps Reserve (3rd Battalion, 25th Marine unit) stand in front of 10 boxes of toys donated by NASA Glenn Research Center employees. Credit: NASA/Bridget Caswell
+
+NASA’s Glenn Research Center continued a decades-long tradition of participating in the Marine Corps Reserve Toys for Tots program during the 2023 holiday season. On Dec. 11, members of the Marine Corps Reserve (3rd Battalion, 25th Marine unit) picked up 10 boxes of toys donated by employees from NASA Glenn’s Lewis Field in Cleveland and Neil Armstrong Test Facility in Sandusky. The Glenn Veterans Employee Resource Group led the donation drive. The Toys for Tots campaign collects and distributes new, unwrapped toys to less fortunate children in the area for Christmas.

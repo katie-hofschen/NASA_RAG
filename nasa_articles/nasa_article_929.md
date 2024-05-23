@@ -1,0 +1,4 @@
+NASA Collaborating on European-led Gravitational Wave Observatory in Space 
+ Gravitational waves from a simulated population of compact binary systems in our galaxy were used to construct this synthetic map of the entire sky. Such systems contain white dwarfs, neutron stars, or black holes in tight orbits. Maps like this using real data will be possible once the LISA mission becomes active in the next decade. The center of our Milky Way galaxy lies at the center of this all-sky view, with the galactic plane extending across the middle. Brighter spots indicate sources with stronger gravitational signals and lighter colors indicate those with higher frequencies. Larger colored patches show sources whose positions are less well known.
+
+NASA’s Goddard Space Flight Center

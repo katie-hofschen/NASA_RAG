@@ -1,0 +1,2 @@
+April’s Night Sky Notes: Participate in Eclipse Science 
+ If you’re traveling to totality, help the SunSketcher team measure the oblateness, or shape, of the Sun during the eclipse by timing the flashes of Baily’s Beads. You will need a smartphone with a working camera for this, along with something to hold the phone in place - don’t forget a spare battery! NOTE: The app will need to run from five minutes before the eclipse starts until the end of the eclipse. Any additional phone use will result in Sun Sketcher data loss. Learn more at: sunsketcher.org/

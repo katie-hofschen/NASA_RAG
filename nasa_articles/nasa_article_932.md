@@ -1,0 +1,2 @@
+Sol 4078: Polka Dots and Sunbeams 
+ Before the rover drives further south and uphill for the weekend, Navcam will look for dust devils and clouds near midday. DAN passive, REMS, and RAD run before, during and after the drive, and REMS and RAD continue long into the wee hours before the next plan begins. Once we are settled in at our next, hopefully equally delightful workspace, Navcam and Mastcam will measure the amount of dust in the atmosphere in the late afternoon and MARDI will image the terrain beneath the rover near twilight. Whatever will we find next?

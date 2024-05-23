@@ -1,0 +1,84 @@
+40 Years Ago: STS-41B, the First Flight of the Manned Maneuvering Unit 
+ On Feb. 3, 1984, space shuttle Challenger took off on its fourth flight, STS-41B. Its five-person crew of Commander Vance D. Brand, Pilot Robert L. “Hoot” Gibson, and Mission Specialists Ronald E. McNair, Robert L. Stewart, and Bruce McCandless flew an eight-day mission ending with the first return to NASA’s Kennedy Space Center (KSC) in Florida. Many of the flight activities practiced tasks required for the upcoming Solar Maximum Mission satellite retrieval and repair mission. Among these, successful test flights of the Manned Maneuvering Unit (MMU) astronaut propulsion device during two untethered spacewalks proved the most critical, and visually spectacular. The two commercial communications satellites, Westar VI and Palapa-B2, successfully deployed during the mission ended up in non-operational orbits due to upper stage failures.
+
+
+
+Left: The STS-41B crew of (clockwise from bottom left) Commander Vance D. Brand, Mission Specialists Robert L. Stewart, Ronald E. McNair, and Bruce McCandless, and Pilot Robert L. “Hoot” Gibson. Middle: The STS-41B crew patch. Right: Challenger’s payload bay for STS-41B.
+
+On Feb. 4, 1983, NASA announced Brand, Gibson, McNair, Stewart, and McCandless as the STS-11 crew. Brand, the flight’s only veteran, had flown on the Apollo-Soyuz Test Project in 1975 and commanded STS-5 in 1982. For the other four, STS-41B represented their first trip into space, although McCandless had served as an astronaut since his selection in 1966. He helped to develop the MMU and as a backup crew member for the Skylab 2 mission in 1973, he helped train astronauts to fly the Astronaut Maneuvering Unit, the MMU’s predecessor, inside Skylab. Gibson, McNair, and Stewart joined NASA as astronauts in 1978. At the time of the crew announcement, the seven-day mission’s objectives included the Large Format Camera for Earth photography, deploying the Palapa-B2 communications satellite for Indonesia, and the Payload Deployment and Retrieval System (PDRS) to test the Canadian-built Remote Manipulator System (RMS), or robotic arm. Over the course of the next year, both the mission’s designation and its payload complement changed due to a shuffling of payloads among shuttle flights. The PDRS moved up to STS-8, replaced by the Westar VI communications satellite for Western Union. In addition to the two spacewalks by McCandless and Stewart to test the MMU, the mission, re-designated STS-41B in September 1983, now included the Shuttle Pallet Satellite-01A (SPAS-01A), a reflight of the German-built deployable satellite flown on STS-7 in June 1983. The mission also included practicing rendezvous maneuvers with the Integrated Rendezvous Target (IRT), an inflatable 6-foot balloon deployed from the payload bay. During their spacewalks, McCandless and Stewart planned to perform the first tests of the Manipulator Foot Restraint (MFR), a work platform attached to the end of the RMS.
+
+
+
+Left: Aerial view at NASA’s Kennedy Space Center (KSC) in Florida of the Vehicle Assembly Building (VAB) and the Shuttle Landing Facility, where STS-41B made the first landing of the program. Middle: Workers in the VAB prepare to lift space shuttle Challenger to mate it with its External Tank and twin Solid Rocket Boosters. Right: The STS-41B crew arrives at KSC three days before launch.
+
+After its previous mission, STS-8, Challenger arrived at KSC on Sept. 9, 1983, and workers towed it to the Orbiter Processing Facility to refurbish it for STS-41B. They replaced the orbiter’s three Auxiliary Power Units following a fire during Columbia’s landing on STS-9. They towed Challenger to the Vehicle Assembly Building on Jan. 6, 1984, for mating with its External Tank and twin Solid Rocket Boosters, and rolled the completed stack to Launch Pad 39A six days later. The astronauts participated in the Terminal Countdown Demonstration Test, a dress rehearsal for the actual countdown, on Jan. 16, and senior managers held the Flight Readiness Review on Jan. 25 to confirm the Feb. 3 launch date. Engineers began the countdown on Jan. 31, the same day the crew arrived at KSC.
+
+
+
+Left: Liftoff of space shuttle Challenger on the STS-41B mission. Middle: Congressman C. William “Bill” Nelson, left, of Florida cheers on the STS-41B launch. Right: Challenger rises into the sky.
+
+Liftoff occurred on schedule at 8:00 a.m. EST, with Challenger taking its five-member crew into the skies. Among the guests on hand to view the launch, Florida Congressman C. William “Bill” Nelson, who two years later flew on Columbia’s STS-61C mission, and in 2021 became NASA’s 14th administrator. Nine minutes after liftoff, Challenger’s three main engines cut off. The astronauts had reached space and experienced weightlessness for the first time, although they had not yet achieved orbit. The shuttle’s two Orbital Maneuvering System engines fired twice to complete the insertion into a circular 190-mile-high orbit.
+
+
+
+Left: Astronauts Ronald E. McNair, left, and Robert L. Stewart minutes after Challenger reached orbit. Middle: Deploy of the Westar VI communications satellite for Western Union. Right: Deploy of the Palapa-B2 communications satellite for Indonesia.
+
+Once in orbit, the astronauts opened Challenger’s payload bay doors, deployed the Ku-band high-gain antenna to communicate with the Tracking and Data Relay Satellite, and closed the protective sunshields around the two satellites at the back of the payload bay. They tested the cameras in the payload bay and found that the one on the forward bulkhead’s starboard side did not tilt and panned only slowly, and only provided black and white imagery. Approximately eight hours into their first day, after opening its sunshield, the astronauts deployed the Westar VI communications satellite. Although the deployment went perfectly, 45 minutes later when the satellite’s Payload Assist Module-D (PAM-D) upper stage ignited to send it to geosynchronous transfer orbit, it fired for only a few seconds, stranding the satellite in a low, elliptical, and operationally useless orbit. Mission managers decided to delay the deployment of the Palapa satellite from the mission’s second day to the fourth day since it used an identical PAM-D upper stage. This provided engineers time to determine the cause of the first PAM-D failure. In place of the delayed deployment, the astronauts began several of the mission’s experiments, including activating the SPAS, and performed an initial checkout of the spacesuits. The third flight day included two retrograde OMS burns to lower Challenger’s orbit to a circular 173-mile-high orbit, and had planned to include the rendezvous operations with the IRT. However, shortly after its deployment from the payload bay, the balloon initially failed to inflate and then exploded, leaving no suitable target for a rendezvous. Using the shuttle’s radar and star trackers, the astronauts tracked the remains of the balloon to a distance of about 63 miles before abandoning the activity. In place of the IRT rendezvous, the crew checked out the RMS, with McNair at the controls.
+
+
+
+Left: The Shuttle Pallet Satellite-01A (SPAS-01A) in Challenger’s payload bay. Right: Robert L. Stewart wears the launch entry helmet during a pre – breathe activity prior to a spacewalk.
+
+The morning of flight day four, the astronauts decreased the shuttle’s cabin pressure from 14.7 pounds per square inch (psi) to 10.2 psi. This reduced the time the two spacewalkers needed to prebreathe pure oxygen to rid their blood of excess nitrogen that could result in the bends when working in their spacesuits at 4.3 psi. The astronauts deployed the Palapa satellite, and oriented the orbiter so that cameras on the RMS could observe the firing of the PAM-D engine. The burn initially appeared to go as planned, but engineers later determined that this engine suffered the same failure as the Westar PAM-D, similarly stranding Palapa in a low, elliptical, and operationally useless orbit. As a footnote, spacewalking astronauts flying MMUs retrieved both satellites during the STS-51A mission in November 1984 and returned them to Earth for reflight.
+
+
+
+Views of Bruce McCandless during the first test flight of the Manned Maneuvering Unit, and a view, right, of Challenger from McCandless’ vantage point.
+
+On flight day five, McCandless and Stewart began the second spacewalk of the shuttle program. After opening the airlock hatch, McCandless checked out the MMUs, donning the port side unit, designated with a number “3,” while Stewart prepared the Trunnion Pin Attachment Device (TPAD) and the MFR for use later in the spacewalk. As he began his first test flight in the MMU, McCandless said, “that may have been one small step for Neil, but it’s a heck of a big leap for me,” humorously echoing Apollo 11 astronaut Neil A. Armstrong’s first words after stepping onto the lunar surface. As an historical footnote, McCandless served as capsule communicator during Armstrong’s historic Moonwalk. Floating just outside the flight deck aft windows, McCandless checked out the MMU’s flying in all three axes. He next translated down the length of the payload bay before beginning his long-distance travel. He flew 150 feet away from the orbiter, with a camera mounted on the MMU showing the receding shuttle, returned to the spacecraft, then backed out again to 320 feet before returning to the payload bay and stowing the MMU. With McNair operating the RMS, Stewart attached the MFR to the arm’s end effector. With the astronauts running slightly behind schedule, Mission Control decided to skip Stewart’s checkout of the MFR so he could proceed to his checkout of the MMU, the same unit McCandless just finished flying. McNair maneuvered McCandless in the MFR to the the SPAS to practice activities required for the Solar Max repair mission. Meanwhile Stewart began his test of the MMU, flying out to 150 feet, stopping, flying out to 300 feet, and returning to the payload bay. Once there, he attached the TPAD to the front of the MMU and practiced docking to the trunnion pin attached to the SPAS. He then returned the MMU to its stowage location. The two astronauts ended the spacewalk after 5 hours 55 minutes.
+
+
+
+View in Mission Control at NASA’s Johnson Space Center in Houston during the first STS-41B spacewalk as Bruce McCandless makes the first flight of the Manned Maneuvering Unit.
+
+
+
+Three views of Bruce McCandless testing the Manipulator Foot Restraint at the end of the Remote Manipulator System, operated by Ronald E. McNair.
+
+
+
+Left: Robert L. Stewart begins his first test flight of the Manned Maneuvering Unit (MMU). Middle: Stewart during his flight away from the payload bay. Right: Bruce McCandless prepares to dock his MMU with the attached Trunnion Pin Attachment Device to the SPAS-01A in Challenger’s payload bay.
+
+
+
+Left: Astronaut Ronald E. McNair poses with the camera for the Cinema 360 project, wearing a humorous “Cecil B. McNair” name tag, sunglasses, and beret. Right: McNair plays the soprano saxophone while floating in the middeck.
+
+On flight day six, McCandless and Stewart busied themselves with cleaning and recharging their spacesuits for the next day’s second spacewalk. McNair, an accomplished saxophonist, took some free time to play an instrument he brought along, the first musical instrument played on the shuttle. Space limitations in the shuttle precluded McNair flying his favorite tenor sax, so he learned to play the smaller soprano version of the instrument. McNair encountered unexpected effects of weightlessness on his playing. The water that normally accumulates inside wind instruments on Earth resulted instead in unwanted “bubbly” effects. The shuttle cabin’s dry air had unplanned effects on the instrument’s felt and leather pads, requiring several minutes of “rehydration” before proper playing. The reduced cabin atmospheric pressure for the spacewalks also required special reeds and mode of playing. Another historic event on this day, the Soviet Union launched a trio of cosmonauts to their Salyut-7 space station, bringing the total number of people in space to a then record-setting eight. This prompted one of the astronauts to comment, “It’s really getting to be populated up here.”
+
+
+
+Left: Bruce McCandless flies the Manned Maneuvering Unit (MMU) above Challenger’s payload bay during the second spacewalk. Middle: McCandless grabs the Manipulator Foot Restraint that had floated away. Right: Robert L. Stewart flies the MMU above Challenger’s payload bay.
+
+On the seventh flight day, when Gibson began to operate the RMS, it did not respond as expected due to a failure in its wrist joint, and Mission Control requested that he stow it. Without the RMS, McCandless and Stewart could not practice docking with a slowly rotating SPAS, a critical test for the Solar Max mission. Instead, they practiced docking with the satellite berthed in the payload bay. McCandless placed himself in the starboard MMU, designated with a “2,” attached the TPAD, and practiced dockings before returning the MMU to its stowage location. Meanwhile, Stewart recharged the port MMU’s nitrogen tanks and took flight to practice dockings with the TPAD to the SPAS. He then returned the MMU to its portside location. At one point during the spacewalk, the MFR got loose and began drifting away. In an impromptu demonstration of rescuing an untethered astronaut, Brand maneuvered the orbiter so McCandless could retrieve it. McCandless donned the portside MMU to conduct evaluations of its automatic attitude hold and translation and rotational acceleration capabilities. In the meantime, Stewart practiced a hydrazine transfer operation using red-dyed freon as a substitute for the hazardous fuel. President Ronald W. Reagan called the astronauts during the spacewalk to congratulate them. McCandless returned the MMU to the port station while Stewart put away the fuel transfer equipment and tools. They climbed back into the airlock to close out the 6-hour 17-minute spacewalk, the longest of the shuttle program up to that time. Shortly after, the astronauts removed their spacesuits, exited the airlock, and repressurized Challenger’s cabin to 14.7 psi.
+
+
+
+The STS-41B crew members pose near the end of their successful mission, in the middeck, left, and on the flight deck, right.
+
+On flight day eight, the day before entry, the astronauts busied themselves with stowing equipment. Brand and Gibson tested Challenger’s reaction control system thrusters and flight control surfaces in preparation for the next day’s landing. They held a 30-minute press conference with reporters on the ground asking them questions about their mission, with special emphasis on the historic spacewalks.
+
+
+
+Left: The astronauts close the payload bay doors at the end of the STS-41B mission. Middle: Orange glow outside the windows during Challenger’s reentry. Right: A chase plane photographs Challenger during its descent to NASA’s Kennedy Space Center in Florida.
+
+
+
+Space shuttle Challenger touches down on the Shuttle Landing Facility at NASA’s Kennedy Space Center in Florida.
+
+
+
+Left: Space shuttle Challenger rolls down the Shuttle Landing Facility (SLF) at NASA’s Kennedy Space Center (KSC) in Florida. Middle: STS-41B astronauts depart space shuttle Challenger at the SLF. Right: A welcome home ceremony for the STS-41B crew at the KSC Visitor Center.
+
+On entry day, Feb. 11, the astronauts opened the two sunshields that protected the two satellites before their deployments, retracted and stowed the Ku antenna, and closed the payload bay doors. Brand and Gibson oriented Challenger with its tail in the direction of flight and fired its two OMS engines to slow the spacecraft enough to drop it out of orbit. They reoriented the orbiter to fly with its heat shield exposed to the direction of flight as it entered Earth’s atmosphere. The buildup of ionized gases caused by the heat of reentry prevented communications for about 15 minutes. The shuttle’s reentry path took it over the U.S. Gulf coast as it traveled toward the Shuttle Landing Facility at KSC. At an altitude of 110,000 feet and traveling at Mach 4.3, Challenger crossed Florida’s west coast, carrying out roll reversal maneuvers to reduce its speed. As the shuttle went subsonic, it made its final turn onto the KSC runway. Gibson lowered Challenger’s landing gear and Brand brought the shuttle down for its first landing at KSC, just a few miles from where it launched 7 days 23 hours 16 minutes earlier.
+
+Enjoy the crew narrated video of the STS-41B mission. Read Brand’s and Gibson’s recollections of the STS-41B mission in their oral histories with the JSC History Office.

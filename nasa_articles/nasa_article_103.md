@@ -1,0 +1,2 @@
+New NASA Black Hole Visualization Takes Viewers Beyond the Brink 
+ In real time, the camera takes about 3 hours to fall to the event horizon, executing almost two complete 30-minute orbits along the way. But to anyone observing from afar, it would never quite get there. As space-time becomes ever more distorted closer to the horizon, the image of the camera would slow and then seem to freeze just shy of it. This is why astronomers originally referred to black holes as “frozen stars.”

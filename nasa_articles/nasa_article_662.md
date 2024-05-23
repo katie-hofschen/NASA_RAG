@@ -1,0 +1,2 @@
+Arkansas PBS Site Visit to Marshall Space Flight Center 
+ Robert Loper, Mitzi Adams, and Adam Kobelski (ST13) and Joseph Matus (LP03) were interviewed on 1/23/24 by Arkansas PBS for a program on the upcoming 2024 Total Solar Eclipse. The interviews were conducted at the MSFC TV studio, the X-Ray and Cryogenic Facility, and the Stray Light Test Facility. This site visit is part of the MSFC response to the Total Solar Eclipse event and the Heliophysics Big Year.

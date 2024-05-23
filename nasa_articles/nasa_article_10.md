@@ -1,0 +1,14 @@
+Tech Today: From Spacesuits to Racing Suits 
+ Due to extreme temperatures in the cockpit, drivers in almost every major racing championship wear Walero for its cooling properties. Cristiana Oprea (pictured) wears it while driving for the European Rally Championship.
+
+For spacewalks to even be possible, spacesuits need insulation and temperature controls to withstand temperature swings between 250 and minus 250 degrees Fahrenheit. This extreme environment made NASA innovators look beyond everyday materials to find something unique to keep explorers comfortable and safe.
+
+In the 1980s, NASA’s Johnson Space Center in Houston entered into a Small Business Innovation Research (SBIR) contract with the Triangle Research and Development Corporation. The objective was to develop spacesuit glove material that could maintain a consistent, comfortable temperature. The thermal secret was found in phase-change materials, which absorb and release heat through basic characteristics of matter.
+
+As surrounding temperatures rise, the heat the material absorbs melts it from solid to liquid. This also works in the opposite direction, releasing heat as the material solidifies. No matter what phase it’s in, the temperature stays around the melting point in either hot or cold environments. Triangle’s work for NASA successfully incorporated phase-change materials into insulation for a spacesuit glove insert.
+
+Spacesuit gloves have to be both dexterous enough to use tools and insulating enough to protect against the temperature extremes of working in space. Working with industry, NASA explored the use of phase-change materials for these purposes, which was later commercialized under the name Outlast. Credit: NASA
+
+While the spacesuit glove inserts developed by Triangle didn’t make it to space, their pioneering work paved the way for a new application of phase-change materials. In the 1990s, Gateway Technologies, now known as Outlast Technologies, acquired exclusive patent rights to incorporate phase-change microcapsules into fabrics. This innovative technology has been embraced by various industries.
+
+For instance, the United Kingdom-based Walero Motorsports utilizes Outlast material in the specialized undergarments worn by race car drivers – like those driving in this weekend’s Indianapolis 500 – providing a comfortable and safe experience, even in the extreme heat of the race. The interiors of race cars can reach 120º F, so ways to keep drivers cool are critical. By bonding the Outlast to a layer of a fire-retardant material, Walero was able to conform to all the necessary race wear regulations set by the International Automobile Federation (FIA), the sanctioning body of international motorsport, as well as the safety standards laid out by the U.S.-based SFI Foundation.

@@ -1,0 +1,2 @@
+The April 8 Total Solar Eclipse: Through the Eyes of NASA 
+ Although you know totality is coming, its arrival can still be overwhelming. For some people, their hearts race or their eyes well up with tears. You try to absorb everything you can in those minutes: from the corona, to the planets peeking out around the eclipse, to the temperature drop, to cheers of excitement from the community around you, even changes in animal behaviors.

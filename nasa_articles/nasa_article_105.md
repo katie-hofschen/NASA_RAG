@@ -1,0 +1,14 @@
+Tech Today: NASA’s Ion Thruster Knowhow Keeps Satellites Flying 
+ This Hall-effect thruster, shown being tested at Glenn Research Center, turns electricity and inert gas into force that could propel a spacecraft. Orbion Space Technology was founded to bring the high efficiency of these thrusters to small commercial satellites, and the company sought the center’s help to make that a reality. Credit: NASA
+
+In low Earth orbit, satellites face a constant challenge – a tiny amount of atmospheric drag that, over time, causes them to slow down and decay their orbit. To combat this, spacecraft rely on in-space thrusters to adjust positioning and boost orbits. However, most of these thrusters use heavy, expensive chemical propellants. This is where the game-changing ion thrusters come in, offering a more efficient and cost-effective solution for satellite operations.
+
+Orbion Space Technology, based in Houghton, Michigan, was established in 2016. Recognizing a market need, the company set out to find innovative ways to either extend the lifespan of satellites in orbit or increase their payload capacity. This ambitious goal necessitated the development of a thruster that could operate efficiently with minimal fuel consumption, leading to the creation of the company’s Aurora thruster.
+
+Hall-effect thrusters, an advanced ion propulsion technology, use electricity rather than chemical reactions to propel spacecraft. Orbion’s founders saw the technology grow from an experimental concept to being regularly used on missions across the solar system. Still, the company had to turn to the experts to make these thrusters viable for satellite operators.
+
+Orbion’s Aurora thrusters are small and efficient yet powerful enough to maintain the orbits of small satellites for several years. Credit: Orbion Space Technology Inc.
+
+NASA’s Glenn Research Center in Cleveland leads the development of ion thrusters for the agency, designing and evaluating thrusters for missions like Dawn and DART and the agency’s Gateway lunar space station. Orbion entered into a Data Usage Agreement with NASA Glenn to receive detailed information from the development of these engines and a non-exclusive evaluation license. One of the reasons Orbion turned to NASA was its advancements in materials research for ion thrusters and the Glenn-developed cathode heater, which improves electrical efficiency and operating life.
+
+This work resulted in Orbion’s Aurora thrusters being just as capable as those that NASA builds for its deep space science and exploration missions. Orbion has since sold several Aurora thrusters to government and private sector companies, including a recent contract with a large commercial satellite operator for its new constellation of Earth-observing spacecraft.

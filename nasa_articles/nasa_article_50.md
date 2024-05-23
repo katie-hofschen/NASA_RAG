@@ -1,0 +1,32 @@
+NASA Teammates Recall Favorite Memories Aboard Flying Laboratory 
+ The NASA DC-8 aircraft lifts off on a flight from U.S. Air Force Plant 42 in Palmdale, California, at sunset. The DC-8 is based at NASA’s Armstrong Flight Research Center Building 703, which is located on Plant 42. NASA/Carla Thomas
+
+After flying more than three decades and 158 science campaigns, just one flight remains. NASA’s DC-8 Airborne Science Laboratory will make its final flight May 15 to Idaho State University in Pocatello, Idaho, where it will be used to train future aircraft technicians by providing real-world experience in the college’s Aircraft Maintenance Technology Program.
+
+Before that final flight, current and past DC-8 team members joined together on May 2 at NASA’s Armstrong Flight Research Center’s Building 703 in Palmdale, California, to celebrate the people, the aircraft and the missions that resulted in incredible contributions to Earth science disciplines. “The DC-8 flew missions all over the world,” said Michael Thomson, chief of the Science Projects Branch at NASA Armstrong. “The work we did on that aircraft will make a difference to future generations in improved weather forecasting, monitoring glacial ice thickness, air quality, and improving our ability to predict the development of hurricanes from tropical storms.”
+
+NASA Armstrong primarily kept the DC-8 testbed ready for flying science missions and the preparations to get the aircraft where it was needed for the scientists to do their work. NASA’s Ames Research Center in California’s Silicon Valley managed the science.
+
+Members of the DC-8 program team tour an empty aircraft and recall past missions. Usually the DC-8 has between 15 and 30 instrument racks installed for a given science mission. The aircraft was spacious by comparison on May 2, 2024, when NASA personnel, friends, and family gathered at NASA’s Armstrong Flight Research Center Building 703 in Palmdale, California to celebrate the DC-8 staff, aircraft, and science campaigns. Conversing here are DC-8 aircraft deputy manager Kirsten Boogaard, left, with NASA Armstrong pilot Carrie Worth, Mike Zimmerman, and NASA Armstrong public affairs specialist for airborne science, Erica Heim. NASA/Steve Freeman
+
+“I really found it rewarding working on the DC-8 project and I will miss the team,” said Brian Hobbs, NASA Armstrong DC-8 manager. “It is a high-performing team. We have had some folks with the DC-8 project for a long time who have a lot of corporate knowledge. The comradery and the can-do attitude are impressive.”
+
+Sometimes heroics were needed to save the day, Hobbs said. “During the recent Airborne and Satellite Investigation of Asian Air Quality, or ASIA-AQ, mission, we had an engine failure. The logistics and procurement teams acted quickly to get the engine shipped and the crew was able to get it the engine replaced, tested and ready to go. That could have been the end of the campaign, but our team made it happen.”
+
+The DC-8 team’s ability to make missions happen is something Hal Maring, NASA Earth Science Division scientist, experienced. “The DC-8 has flown scientists on a lot of missions to look at atmospheric composition, for which the most important applications are air quality. The DC-8 enabled NASA scientists to develop a better understanding of air quality; what makes it good, or what makes it bad.”
+
+Retired NASA mission manager Chris Jennison and Randy Albertson, right, who retired in 2019 as NASA’s Airborne Science Program deputy director, stand in front of the DC-8 aircraft at NASA’s Armstrong Flight Research Center Building 703 in Palmdale, California. On May 2, 2024, NASA personnel, friends, and family celebrated the DC-8 staff, aircraft, and science campaigns. NASA/Steve Freeman
+
+Some DC-8 missions are more intense, like flying through hurricanes, said Chris Jennison, a retired DC-8 mission manager who served in that role for 30 years. “I don’t miss stark terror,” he said. “The thing about flying hurricanes is that it’s not intuitively obvious where the dangerous places are.”
+
+Despite flying the environmental challenges of missions, the features of the NASA DC-8 and the talent of its aircrew made flying a great experience, said Bill Brockett, a retired NASA DC-8 pilot who flew the aircraft for 28 years. “I always felt this airplane was tailor made for the kinds of work that NASA wanted to do with it,” he said. “There is no other big airplane that I am aware of that has the failsafe redundancy that this airplane has. I felt very safe if we were flying around storms and there was turbulence.”
+
+Brockett recalled his 2009 flight to Antarctica as his most exciting. “The science instrumentation required that we fly from 500 feet to 1,000 feet altitude. It required total focus for the 6 or 7 hours at low altitude to successfully complete a mission. The scenery was spectacular, and every mission was immensely satisfying to me. We were low enough that we occasionally got glimpses of seals lounging on the ice! I also enjoyed having a personal audience with people who were at the top of their field and were doing cutting-edge research. I was fascinated by that and helping them to go where they wanted to go.”
+
+Rocky Radcliff, Kevin Hall, and Herman “Chico” Rijfkogel stand in front of NASA’s DC-8 aircraft at the agency’s Armstrong Flight Research Center Building 703 in Palmdale, California. On May 2, 2024, NASA personnel, friends, and family celebrated the DC-8 staff, aircraft, and science campaigns. NASA/Steve Freeman
+
+Randy Albertson, who retired as NASA’s Airborne Science deputy director in 2019, agreed that his favorite part of DC-8 missions was the scientists’ enthusiasm. “Some of these people had been working for years trying to get their experiment out there and prove a hypothesis they are working on. The energy they brought in was like recharging one’s batteries. They loved talking about the science. It was never routine because we were frequently doing different missions.”
+
+Albertson was a key figure in the DC-8 program from the late 1980s until his retirement. He recognizes the Operation IceBridge missions was his biggest contribution because when a satellite failed to monitor the state of the ice caps, the mission enabled scientists to complete the largest airborne survey of Earth’s polar ice.
+
+Although its last flight will not be a scientific one, the body of knowledge and research that the DC-8 helped facilitate will continue to inspire scientists for generations to come.

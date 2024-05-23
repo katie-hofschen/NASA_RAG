@@ -1,0 +1,4 @@
+IPEx Autonomy Testing 
+ A photo taken from the ISRU Pilot Excavator as it is tested in a blacked out facility with minimal lighting that mimics the harsh, feature-less terrain of the Moon. NASA A photo taken from the ISRU Pilot Excavator as it is tested in a blacked out facility with minimal lighting that mimics the harsh, feature-less terrain of the Moon. NASA
+
+Harsh, low-angle sunlight, long and dark shadows, and a featureless terrain will make navigation difficult when NASA’s ISRU Pilot Excavator (IPEx) is sent to the Moon. Because of this, the IPEx team has begun testing various approaches to autonomously drive the excavator in a specially constructed rock yard that mimics these environmental conditions. The team plans to publish the data sets from these unique tests later this year.

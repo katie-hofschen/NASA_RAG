@@ -1,0 +1,2 @@
+NASA “Wildfire Digital Twin” Pioneers New AI Models and Streaming Data Techniques for Forecasting Fire and Smoke 
+ “We want to be able to provide firefighters with useful, timely information,” said Halem, adding that in the field, “there is generally no internet, and no access to big supercomputers, but with our API version of the model, they could run the digital twin not just on a laptop, but even a tablet,” he said.

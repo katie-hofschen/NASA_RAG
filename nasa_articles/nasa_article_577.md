@@ -1,0 +1,2 @@
+NASA Launches Snap It! Computer Game to Learn About Eclipses 
+ Solar eclipses occur when the Moon passes between Earth and the Sun. The total solar eclipse later this year will completely block the Sun’s light from reaching parts of eastern and southern North America, bathing the landscape in darkness. Through taking photos of the Sun and decorating postcards, the goal of this game is to learn about eclipses and objects that transit, or pass in front of, the Sun. The game can be played on any computer using an internet browser.

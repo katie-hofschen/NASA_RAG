@@ -1,0 +1,14 @@
+NASA Photographer Honored for Thrilling Inverted In-Flight Image 
+ NASA research pilot Nils Larson and photographer Jim Ross complete aerobatic maneuvers in a NASA Armstrong Flight Research Center in Edwards, California owned T-34C aircraft during a proficiency flight. NASA/Jim Ross
+
+Riding in the back seat of a car can be boring. Riding in the back of a NASA aircraft is exhilarating, especially for photographers capturing NASA’s story. Jim Ross, photo lead at NASA’s Armstrong Flight Research Center in Edwards, California, was awarded first place for an image he took while flying upside down in a two-seat T-34C research aircraft.
+
+In the photo, which was announced as the NASA Photo of the Year 2023 in the People category on April 15, 2024. Ross captures NASA research pilot Nils Larson in full flight gear, while the aircraft is doing aerobatic maneuvers. Most of us would struggle to keep our bearings, let alone operate a camera and frame a perfectly balanced image. NASA Armstrong photographers do this every flight day.
+
+“When we fly proficiency flights, my mind is always thinking about what kind of photo I can take that will share what I am experiencing in the aircraft,” Ross said. “This photo was one that I feel is able to tell that story.” It’s telling the story that makes Ross’s work so important to NASA. Much of what NASA works on can only be witnessed by researchers and scientists, but having it capture in photo and video allows us to share the images with the world.
+
+Jim Ross, photo lead at NASA’s Armstrong Flight Research Center in Edwards, California, took a photo of an aerobatic maneuver from the back seat of a T-34C that was selected as first place in the NASA Photo of the Year 2023 Contest in the People category. NASA/Genaro Vavuris
+
+Ross began his aviation photography career in 1989 when he joined the photography staff at NASA’s Armstrong (then Dryden) Flight Research Center, now known as NASA Armstrong. He became the photo lead in 1997, a title he retains. In his 30 years of flying, he has flown on more than 900 missions and has about 1,100 flight hours in aircraft including T-33, T-34, T-38, F-15, F-16, F-18, KC-10, KC-135, C-12, C-20A, Boeing 747SP, and helicopters.
+
+NASA previously recognized Ross for his work with the agency’s Public Service Medal and the Exceptional Public Achievement Medal. NASA also made a photo book of his work titled, “NASA Photo One,” which highlights 100 photos of his career. He also won the Best of the Best award from the Aviation Week & Space Technology photo contest in 2001. His work has appeared in many publications, including Aviation Week & Space Technology, National Geographic, and Air & Space Smithsonian.

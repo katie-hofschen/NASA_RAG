@@ -1,0 +1,2 @@
+NASA’s Global Precipitation Measurement Mission: 10 years, 10 stories 
+ The GPM Core Observatory flew over Hurricane Arthur five times between July 1 to 5, 2014 – the first time a precipitation-measuring satellite was able to follow a hurricane through its full life cycle with high-resolution measurements. In the July 3 image, Arthur was just off the coast of South Carolina. GPM data showed that the hurricane was asymmetrical, with spiral arms (rain bands) on the eastern side of the storm but not on the western side.

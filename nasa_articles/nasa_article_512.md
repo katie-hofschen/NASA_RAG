@@ -1,0 +1,10 @@
+Second Gentleman Douglas Emhoff Participates in Women in Space Roundtable 
+ Second Gentleman Douglas Emhoff and Deputy Center Director Laurie Grindle shake hands as they meet before the National Space Council’s Women in Space Roundtable in Hawthorne, California, on Tuesday, March 12, 2024. Grindle, from NASA’s Armstrong Flight Research Center in Edwards California, moderated a discussion with the Second Gentleman on a wide range of topics related to women in space. White House/Katie Ricks
+
+The National Space Council hosted the Women in Space Roundtable on Tuesday, March 12, and Deputy Center Director Laurie Grindle from NASA’s Armstrong Flight Research Center in Edwards, California, was there to welcome Second Gentleman Mr. Douglas Emhoff and moderate a panel discussion.
+
+NASA has partnered with the National Space Council, and our private partners, to invest in building a workforce, needed to support the growing private space sector. The Space Council, along with the Vice President as its chair, has been an important voice in the White House for how NASA’s work directly benefits the lives of people here on Earth, from tackling climate change, to creating good paying jobs, to inspiring the next generation.
+
+The discussion included Second Gentleman Douglas Emhoff, National Space Council Chief of Staff Tahara Dawkins, Cal Poly Pomona student Ericka Ontiveros, while moderated by Grindle. The panel shared its experience and thoughts with the group on a wide range of topics related to women in space. The event was hosted by the South Bay Workforce Investment Board in Hawthorne, California.
+
+Panelists from the National Space Council’s Women in Space Roundtable are hosted by the South Bay Workforce Investment Board in Hawthorne, California. Pictured from left to right: Laurie Grindle, Deputy Center Director NASA’s Armstrong Flight Research Center; Cal Poly Pomona student Ericka Ontiveros; Second Gentleman Douglas Emhoff; Chris Cagle with the South Bay Workforce Investment Board; and Tahara Dawkins, National Space Council Chief of Staff. White House/Katie Ricks

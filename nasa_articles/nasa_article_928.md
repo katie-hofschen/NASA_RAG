@@ -1,0 +1,4 @@
+NASA’s Hubble Finds Water Vapor in Small Exoplanet’s Atmosphere 
+ This is an artist's concept of the exoplanet GJ 9827d, the smallest exoplanet where water vapor has been detected in the atmosphere. The planet could be an example of potential planets with water-rich atmospheres elsewhere in our galaxy. With only about twice Earth's diameter, the planet orbits the red dwarf star GJ 9827. Two inner planets in the system are on the left. The background stars are plotted as they would be seen to the unaided eye looking back toward our Sun. The Sun is too faint to be seen. The blue star at upper right is Regulus; the yellow star at center bottom is Denebola; and the blue star at bottom right is Spica. The constellation Leo is on the left, and Virgo is on the right. Both constellations are distorted from our Earth-bound view from 97 light-years away.
+
+NASA/ESA/Leah Hustak (STScI)/Ralf Crawford (STScI)

@@ -1,0 +1,2 @@
+Hubble Views a Galaxy with a Voracious Black Hole 
+ Located in the Virgo constellation, NGC 4951 is located roughly 50 million light-years away from Earth. It’s classified as a Seyfert galaxy, which means that it’s an extremely energetic type of galaxy with an active galactic nucleus (AGN). However, Seyfert galaxies are unique from other sorts of AGNs because the galaxy itself can still be clearly seen – different types of AGNs are so bright that it’s nearly impossible to observe the actual galaxy that they reside within.

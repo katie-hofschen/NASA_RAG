@@ -1,0 +1,2 @@
+Hubble Captures a Suspected Galaxy Encounter 
+ UGC 3912 is classified as a spiral galaxy … but you wouldn’t know it from this detailed NASA Hubble Space Telescope image. UGC 3912’s distorted shape is typically indicative of a gravitational encounter with another galaxy. When galaxies interact – either brush up against each other’s gravitational fields or even collide – their stars, dust, and gas can be pulled into new paths. UGC 3912 might have once been an organized-looking spiral, but it looks like it’s been smudged out of shape by a giant thumb.

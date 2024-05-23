@@ -1,0 +1,4 @@
+NASA Glenn Teams Up with Cleveland Monsters 
+ NASA’s Glenn Research Center joined the Cleveland Monsters to celebrate their total solar eclipse-themed game against the Rochester Americans at the Rocket Mortgage FieldHouse in Cleveland on March 30. NASA Glenn staff were on hand to discuss the total solar eclipse and NASA’s presence at Great Lakes Science Center’s Total Eclipse Fest 2024, April 6-8. NASA also provided a photobooth for guests to use, Eva the astronaut mascot made rounds, and Glenn showcased its Graphics and Visualization Lab through virtual reality glasses experiences and hands-on demos. The Monsters also showed a 2024 Eclipse Countdown Kickoff video during the game.
+
+NASA Glenn’s Gretchen Morales-Valle, front left, and Daniel Phan, back left, share information about the total solar eclipse and viewing safety during the Cleveland Monsters game at Rocket Mortgage FieldHouse in Cleveland. Credit: NASA/John Oldham

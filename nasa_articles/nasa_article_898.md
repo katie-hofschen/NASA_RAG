@@ -1,0 +1,10 @@
+BioNutrients: A Five-Year Experiment in Space Nears Completion 
+ Research scientists Sandra Vu, left, Natalie Ball, center, and Hiromi Kagawa, right, process BioNutrients production packs. NASA/Brandon Torres
+
+NASA’s bio-manufacturing experiment called BioNutrients is testing a way to use microorganisms to produce on-demand nutrients that will be critical for human health during future long-duration space missions. Launched to the International Space Station in 2019, the experiment assesses the stability and performance of a hand-held system – dubbed a production pack – to manufacture fresh vitamins and other nutrients in space over a five-year span.
+
+About once a year, scientists at NASA’s Ames Research Center in California’s Silicon Valley processed a set of production packs on the same day astronauts run production packs on the space station. This helps the researchers compare the performance of production packs stored and activated in space to those on the ground, providing data on how the space environment affects nutrient production over the five-year timeline. Demonstrating that NASA can produce nutrients after at least five years in space provides confidence it will be capable of supporting crewed missions to Mars.
+
+In early January, researchers Natalie Ball, Hiromi Kagawa, and Sandra Vu processed the last of a planned series of BioNutrients production packs hours after JAXA (Japan Aerospace Exploration Agency) astronaut Satoshi Furukawa’s duplicate experiment onboard the orbiting laboratory. Samples from this in-space production are planned to return to Earth in February on Axiom Mission 3.
+
+BioNutrients was developed by NASA Ames. NASA’s Space Technology Mission Directorate and its Game Changing Development program manage the project as part of the agency’s broader synthetic biology portfolio.

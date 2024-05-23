@@ -1,0 +1,22 @@
+The Great Observatory for Long Wavelengths (GO-LoW) 
+ Artist concept highlighting the novel approach proposed by the 2024 NIAC Phase II awardee for possible future missions. Credits: Mary Knapp
+
+Mary Knapp
+
+MIT Haystack Observatory
+
+Humankind has never before seen the low frequency radio sky. It is hidden from ground-based telescopes by the Earth’s ionosphere and challenging to access from space with traditional missions because the long wavelengths involved (meter- to kilometer-scale) require infeasibly massive telescopes to see clearly. Electromagnetic radiation at these low frequencies carries crucial information about exoplanetary and stellar magnetic fields (a key ingredient to habitability), the interstellar/intergalactic medium, and the earliest stars and galaxies.
+
+The Great Observatory for Long Wavelengths (GO-LoW) proposes an interferometric array of thousands of identical SmallSats at an Earth-Sun Lagrange point (e.g. L5) to measure the magnetic fields of terrestrial exoplanets via detections of their radio emissions at frequencies between 100 kHz and 15 MHz. Each spacecraft will carry an innovative Vector Sensor Antenna, which will enable the first survey of exoplanetary magnetic fields within 5 parsecs.
+
+In a departure from the traditional approach of a single large and expensive spacecraft (i.e. HST, Chandra, JWST) with many single points of failure, we propose an interferometric Great Observatory comprised of thousands of small, cheap, and easily-replaceable nodes. Interferometry, a technique that combines signals from many spatially separated receivers to form a large ‘virtual’ telescope, is ideally suited to long wavelength astronomy. The individual antenna/receiver systems are simple, no large structures are required, and the very large spacing between nodes provides high spatial resolution.
+
+In our Phase I study, we found that a hybrid constellation architecture was most efficient. Small and simple “listener” nodes (LNs) collect raw radio data using a deployable vector sensor antenna. A small number of larger, more capable “communication and computation” nodes (CCNs) collect data from LNs via a local radio network, perform beamforming processing to reduce the data volume, and then transmit the data to Earth via free space optics (lasercomm). Cross correlation of the beamformed data is performed on Earth, where computational resources are not tightly constrained. The CCNs are also responsible for constellation management, including timing distribution and ranging. The Phase I study also showed that the LN-CCN architecture optimizes packing efficiency, allowing a small number of super-heavy lift launch vehicles (e.g. Starship) to deploy the entire constellation to L4.
+
+The Phase I study showed that the key innovation for GO-LoW is the “system of systems.” The technology needed for each individual piece of the observatory (e.g. lasercomm, CubeSats, ranging, timing, data transfer, data processing, orbit propagation) is not a big leap from current state of the art, but the coordination of all these physical elements, data products, and communications systems is novel and challenging, especially at scale.
+
+In the proposed study, we will (1) develop a real-time, multi-agent simulation of the GO-LoW constellation that demonstrates the autonomous operations architecture required to achieve a large (up to 100k) constellation outside of Earth’s orbit, (2) continue to refine the science case and requirements by simulating science output from the constellation and assessing major error sources informed by the real-time simulation, (3) develop appropriate orbital modeling to assess propulsion requirements for stationkeeping at a stable Lagrange point, and (4) further refine the technology roadmap required to make GO-LoW feasible in the next 10-20 years.
+
+GO-LoW represents a disruptive new paradigm for space missions. It achieves reliability through massive redundancy rather than extensive testing. It can evolve and grow with new technology rather than being bound to a fixed point in hardware/software development. Finally, it promises to open a new spectral window on the universe where unforeseen discoveries surely await.
+
+2024 Phase I Selection

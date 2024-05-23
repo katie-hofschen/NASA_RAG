@@ -1,0 +1,2 @@
+Aurorasaurus Roars During Historic Solar Storm 
+ At Aurorasaurus.org you’ll see the latest model predictions for where the aurora is visible. Then you can submit your own report, helping scientists test and improve the models and characterize what is seen. When people report seeing the aurora beyond where the model predicts the system adapts in real time and puts out volunteer-generated alerts in those areas. During the May 10-12 extreme event, auroras visible as far south as Texas and Alabama triggered those special alerts.

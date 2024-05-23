@@ -1,0 +1,4 @@
+Maintenance on High-Speed Wind Tunnel 
+ Clamshell hatch of UPWT 3-stage compressor in the open position. The outer diameter of the case is approximately 24 feet. Stator blades (in green on left) will be inspected and instrumented to determine extent of stator resonance which occurs at different RPMs. NASA/ James Bell
+
+During April and May 2024, maintenance is being conducted within the Unitary Plan Wind Tunnel (UPWT) complex at NASA Ames Research Center. One key part of this maintenance is the inspection of stators in the 3-stage compressor. Stators are fixed blades that control the flow of air, which can reach a speed of Mach 1.4 (about 1100 miles per hour in air at 100F) within the UPWT. Blade resonance of the stators may be responsible for significant wear on the compressor. The figure below shows the opening of the stator clamshell to enable that inspection.

@@ -1,0 +1,4 @@
+HI-C Flare Shipped to White Sands Missile Range 
+ The Hi-C Flare payload passed its Pre-Ship Review on 1/8/24 and is now at the White Sands Missile Range (WSMR) for integration with a Blank Brandt IX sounding rocket. Hi-C Flare is a suite of experiments designed to observe high-energy phenomena in extreme ultraviolet and soft X-rays during solar flares as part of NASA’s first-ever solar flare sounding rocket campaign.
+
+The campaign will be held at Poker Flat Research Range in Fairbanks, AK in April 2024 following integration and testing at WSMR. Sabrina Savage (ST13) is the Principle Investigator of the mission with partners from the Harvard Smithsonian Astrophysical Observatory and Montana State University.

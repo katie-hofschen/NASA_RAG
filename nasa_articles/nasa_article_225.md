@@ -1,0 +1,2 @@
+NASA Selects New Aircraft-Driven Studies of Earth and Climate Change 
+ Roughly $120 million has been allotted for the six missions, which will deploy at various times from 2026 to 2029. Three lead investigators were chosen for each mission, with at least one required to be an early career scientist. Full staffing of the science teams and selection of complementary instruments will be competed in the coming months. These changes in the selection process were made to promote diversity, equity, and inclusion in the teams.

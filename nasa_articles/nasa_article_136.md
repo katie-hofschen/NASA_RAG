@@ -1,0 +1,18 @@
+Fluidic Telescope (FLUTE): Enabling the Next Generation of Large Space Observatories 
+ Artist’s depiction of the Fluidic Telescope (FLUTE) Edward Balaban
+
+Edward Balaban
+
+NASA ARC
+
+The future of space-based UV/optical/IR astronomy requires ever larger telescopes. The highest priority astrophysics targets, including Earth-like exoplanets, first generation stars, and early galaxies, are all extremely faint, which presents an ongoing challenge for current missions and is the opportunity space for next generation telescopes: larger telescopes are the primary way to address this issue.
+
+With mission costs depending strongly on aperture diameter, scaling current space telescope technologies to aperture sizes beyond 10 m does not appear economically viable. Without a breakthrough in scalable technologies for large telescopes, future advances in astrophysics may slow down or even completely stall. Thus, there is a need for cost-effective solutions to scale space telescopes to larger sizes.
+
+The FLUTE project aims to overcome the limitations of current approaches by paving a path towards space observatories with largeaperture, unsegmented liquid primary mirrors, suitable for a variety of astronomical applications. Such mirrors would be created in space via a novel approach based on fluidic shaping in microgravity, which has already been successfully demonstrated in a laboratory neutral buoyancy environment, in parabolic microgravity flights, and aboard the International Space Station (ISS). Theoretically scale-invariant, this technique has produced optical components with superb, sub-nanometer (RMS) surface quality. In order to make the concept feasible to implement in the next 15-20 years with near-term technologies and realistic cost, we limit the diameter of the primary mirror to 50 meters.
+
+In the Phase I study, we: (1) explored choices of mirror liquids, deciding to focus on ionic liquids, (2) conducted an extensive study of ionic liquids with suitable properties, (3) worked on techniques for ionic liquid reflectivity enhancement, (4) analyzed several alternative architectures for the main mirror frame, (5) conducted modeling of the effects of slewing maneuvers and temperature variations on the mirror surface, (6) developed a detailed mission concept for a 50-m fluidic mirror observatory, and (7) created a set of initial concepts for a subscale small spacecraft demonstration in low Earth orbit.
+
+In Phase II, we will continue maturing the key elements of our mission concept. First, we will continue our analysis of suitable mirror frame architectures and modeling of their dynamic properties. Second, we will take next steps in our machine learning-based modeling and experimental work to develop reflectivity enhancement techniques for ionic liquids. Third, we will further advance the work of modeling liquid mirror dynamics. In particular, we will focus on modeling the effects from other types of external disturbances (spacecraft control accelerations, tidal forces, and micrometeorite impacts), as well as analyzing and modeling the impact of the thermal Marangoni effect on nanoparticle-infused ionic liquids. Fourth, we will create a model of the optical chain from the liquid mirror surface to the science instruments. Fifth, we will further develop the mission concept for a larger-scale, 50-m aperture observatory, focusing on its highest-risk elements. Finally, we will mature the concept for a small spacecraft technology demonstration mission in low Earth orbit, incorporating the knowledge gained in other parts of this work.
+
+2024 Phase I Selection

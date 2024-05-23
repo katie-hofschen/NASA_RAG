@@ -1,0 +1,2 @@
+NASA Volunteers Find Fifteen Rare “Active Asteroids” 
+ “I have been a member of the Active Asteroids team since its first batch of data,” said volunteer Tiffany Shaw-Diaz from Dayton, Ohio. “And to say that this project has become a significant part of my life is an understatement. I look forward to classifying subjects each day, as long as time or health permits, and I am beyond honored to work with such esteemed scientists on a regular basis.”

@@ -1,0 +1,2 @@
+Colleen Wilson-Hodge Elected to Leadership Position 
+ Colleen Wilson-Hodge was elected by her peers to the role of Vice-Chair of the Executive Committee (EC) for the High Energy Astrophysics Division (HEAD) of the American Astronomical Society (AAS). This role will automatically transition into the Chair role after two years. As vice-chair,Wilson-Hodge will co-lead HEAD EC meetings with the Chair to organize HEAD scientific meetings and HEAD sessions at other meetings. The HEAD EC also reviews nominations and makes selections for several HEAD awards.

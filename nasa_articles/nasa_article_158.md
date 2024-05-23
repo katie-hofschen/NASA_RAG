@@ -1,0 +1,2 @@
+NASA/JAXA’s XRISM Mission Captures Unmatched Data With Just 36 Pixels 
+ The instrument is so precise it can detect the motions of elements within a target, effectively providing a 3D view. Gas moving toward us glows at slightly higher energies than normal, while gas moving away from us emits slightly lower energies. This will, for example, allow scientists to better understand the flow of hot gas within clusters of galaxies and to track the movement of different elements in the debris of supernova explosions.

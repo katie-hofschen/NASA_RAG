@@ -1,0 +1,12 @@
+ScienceCraft for Outer Planet Exploration (SCOPE) 
+ Artist’s depiction of ScienceCraft, which integrates the science instrument with the spacecraft by printing a quantum dot spectrometer directly on the solar sail to form a monolithic, lightweight structure. Mahmooda Sultana
+
+Mahmooda Sultana
+
+NASA Goddard Space Flight Center
+
+Missions to the outer solar system are an important part of NASA’s goals because these scarcely visited worlds, particularly the ice giants Neptune and Uranus, hold secrets about the formation and evolution of our solar system and countless others. However, due to the high cost, long travel time and narrow window for mission implementation, outer solar system exploration has been extremely limited in more than 60 years of space exploration. In this NIAC, we are developing a mission architecture that addresses all of these challenges by using a ScienceCraft and enables science missions at the outer planet system. Sciencraft integrates a science instrument and spacecraft into one monolithic and lightweight structure. By printing an ultra-lightweight quantum dot-based spectrometer, developed by the PI Sultana, directly on the solar sail we create a breakthrough spacecraft architecture allowing an unprecedented parallelism and throughput of data collection, and rapid travel across the solar system. Unlike conventional solar sails that serve only to propel small cubesats, ScienceCraft puts its area at use for spectroscopy, pushing the boundary of scientific exploration of the outer solar system. ScienceCraft offers an attractive low resource platform that can enable science missions at a significantly lower cost and provide a large number of launch opportunities as a secondary payload. By leveraging these benefits, we propose a mission concept to Triton, a unique planetary body in our solar system, within the short window that closes around 2045 to answer compelling science questions about Triton’s atmosphere, ionosphere, plumes and internal structure.
+
+In Phase I, we performed an end-to-end feasibility study for a Neptune-Triton mission using a ScienceCraft, as well as identifying the key technologies needed for such a mission and tall poles that we need to address. As part of phase II, we plan to further mature the mission concept, develop and demonstrate some of the key technologies, address the tall poles identified in phase I and develop a roadmap for implementing SCOPE.
+
+2024 Phase I Selection

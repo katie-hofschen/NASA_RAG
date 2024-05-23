@@ -1,0 +1,2 @@
+Stars Sparkle in New Hubble Image 
+ This new NASA Hubble Space Telescope view shows the globular cluster NGC 2298, a sparkling collection of thousands of stars held together by their mutual gravitational attraction. Globular clusters are typically home to older populations of stars, and they mostly reside in the dusty outskirts of galaxies.

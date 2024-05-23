@@ -1,0 +1,4 @@
+Support for the National Artificial Intelligence Research Resource (NAIRR) Pilot Program 
+ The National AI Research Resource (NAIRR) pilot program led by OSTP/NSF went live on 1/24/23. The NAIRR pilot is a first step towards realizing the administration’s vision for a shared research infrastructure that will strengthen and democratize access to critical resources necessary to power responsible AI discovery and innovation. Manil Maskey (ST11/IMPACT) represents NASA at the NAIRR Interagency Working Group. NASA’s initial contributions include AI training datasets, foundation model, and best practices.
+
+More details can be found at https://new.nsf.gov/news/democratizing-future-ai-rd-nsf-launch-national-ai.

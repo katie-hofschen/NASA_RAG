@@ -1,0 +1,2 @@
+Do NASA Science LIVE on February 21! What’s it mean to be cool? 
+ Snow and ice are everywhere this time of year—mountain tops, Alaska, and even outer space. Grab a cup of hot cocoa and join us for the next Do NASA Science LIVE event as we explore ways to participate in NASA’s winter-themed volunteer research projects. On this interactive Zoom call, you’ll chat with five scientists who will describe how you can participate in their NASA research. No previous experience is required—just access to a computer or smartphone. Registration is free, required, and now open.

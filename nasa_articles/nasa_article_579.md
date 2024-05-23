@@ -1,0 +1,2 @@
+Hubble Sees a Spiral Galaxy Edge-On 
+ This NASA/ESA Hubble Space Telescope image shows NGC 4423, a galaxy that lies about 55 million light-years away in the constellation Virgo. In this image, NGC 4423 appears to have quite an irregular, tubular form, so it might be surprising to find out that it is in fact a spiral galaxy. Knowing this, we can make out the denser central bulge of the galaxy, and the less crowded surrounding disk (the part that comprises the spiral arms).

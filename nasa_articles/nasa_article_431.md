@@ -1,0 +1,2 @@
+New NASA Software Simulates Science Missions for Observing Terrestrial Freshwater 
+ “With the kinds of things that TAT-C can do, we can create hypothetical sensors. What if we double the swath width? If it could see twice as much space, does that give us more information? Simultaneously, we can ask questions about the impact of different error characteristics for each of these hypothetical sensors and explore the corresponding tradeoff.” said Forman.

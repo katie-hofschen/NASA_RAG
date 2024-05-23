@@ -1,0 +1,2 @@
+UNITE All-Nighter Delights Amateur Astronomers 
+ Success would tell us that the planet takes a little more than one Earth year to orbit its star. It would place this planet on a short list of gas-giant planets known outside our own solar system that have sizes and temperatures similar to those of Saturn and Jupiter. Such planets are key laboratories for studying how our solar system was formed, so each new example is precious.

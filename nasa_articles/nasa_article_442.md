@@ -1,0 +1,2 @@
+Hubble Sees New Star Proclaiming Presence with Cosmic Lightshow 
+ FS Tau is a multi-star system made up of FS Tau A, the bright star-like object near the middle of the image, and FS Tau B (Haro 6-5B), the bright object to the far right obscured by a dark, vertical lane of dust. The young objects are surrounded by gently illuminated gas and dust of this stellar nursery. The system is only about 2.8 million years old, very young for a star system. Our Sun, by contrast, is about 4.6 billion years old.

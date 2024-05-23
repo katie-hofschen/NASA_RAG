@@ -1,0 +1,4 @@
+NASA’s Webb, Hubble Telescopes Affirm Universe’s Expansion Rate, Puzzle Persists 
+ At the center of these side-by-side images is a special class of star used as a milepost marker for measuring the universe’s rate of expansion – a Cepheid variable star. The two images are very pixelated because they are a very zoomed-in view of a distant galaxy. Each of the pixels represents one or more stars. The image from the James Webb Space Telescope is significantly sharper at near-infrared wavelengths than Hubble (which is primarily a visible-ultraviolet light telescope). By reducing the clutter with Webb’s crisper vision, the Cepheid stands out more clearly, eliminating any potential confusion. Webb was used to look at a sample of Cepheids and confirmed the accuracy of the previous Hubble observations that are fundamental to precisely measuring the universe’s expansion rate and age.
+
+NASA, ESA, CSA, STScI, Adam G. Riess (JHU, STScI)

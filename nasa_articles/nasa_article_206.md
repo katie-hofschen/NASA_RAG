@@ -1,0 +1,2 @@
+Explore the Universe with the First E-Book from NASA’s Fermi 
+ By peering through Fermi’s gamma-ray eyes, we can better understand our solar system. Within its first eight years of operation, Fermi detected gamma-ray emissions from 40 solar flares — bursts of energy from the Sun. Some even originated on the Sun’s far side, allowing scientists to analyze how charged particles fired by solar flares can arc from one side of the Sun to produce gamma rays on the other.

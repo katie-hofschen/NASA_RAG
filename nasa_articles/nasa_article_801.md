@@ -1,0 +1,16 @@
+Collins Aerospace Tests NASA Space Station Suit in Weightlessness 
+ A key NASA design milestone was recently completed by Collins Aerospace as the company works to develop a next-generation spacesuit for use on the International Space Station.
+
+The milestone – a pressure garment system fit and functionality test in a microgravity-like environment – marked an important step toward developing a suit for NASA that can be used for continuing operations and advancing scientific discovery in low Earth orbit.
+
+The agency selected Collins to develop a new spacesuit that can replace the current space station spacesuit, known technically as an extravehicular mobility unit, which has been worn by astronauts to assemble and maintain the space station for over two decades.
+
+The Collins test was conducted aboard a commercial microgravity aircraft to provide brief periods of weightlessness. During a parabolic flight, a pilot creates weightless conditions for around 20 seconds at a time by conducting a series of roller-coaster-like maneuvers. This allows engineers, scientists, and students to test hardware and conduct scientific experiments in a space-like gravity environment without ever going into space.
+
+Collins Aerospace completed a key NASA design milestone on the company’s next-generation spacesuit for use on the International Space Station. The test was conducted aboard a commercial zero-gravity aircraft where Collins performed a pressure garment system fit and functionality test in a microgravity environment. Collins Aerospace Collins Aerospace’s chief test astronaut John “Danny” Olivas demonstrates a series of tasks during testing of Collins’ next-generation spacesuit while aboard a zero-gravity aircraft. Collins Aerospace Collins Aerospace’s chief test astronaut John “Danny” Olivas demonstrates a series of tasks during testing of Collins’ next-generation spacesuit while aboard a zero-gravity aircraft. Collins Aerospace Collins Aerospace’s chief test astronaut John “Danny” Olivas demonstrates a series of tasks during testing of Collins’ next-generation spacesuit while aboard a zero-gravity aircraft. Collins Aerospace
+
+The test was a key step in NASA’s preliminary design review process, one of a series of checkpoints in the project’s design lifecycle, that ensures the design meets all system requirements before manufacturing of flight-ready units can begin.
+
+Collins will continue testing its spacesuit in a vacuum chamber, where air will be removed to create a vacuum to see how the spacesuit performs in a space-like atmosphere, as well as at the agency’s Neutral Buoyancy Laboratory, a 40-foot deep pool at NASA’s Johnson Space Center in Houston, that simulates a microgravity environment for astronaut spacewalk training.
+
+This next-generation spacesuit is designed to advance NASA’s spacewalking capabilities in low Earth orbit. It is being developed to support station maintenance and operations as NASA and its international partners continue carrying out scientific research that benefits humanity and demonstrates new technologies for future human and robotic missions.

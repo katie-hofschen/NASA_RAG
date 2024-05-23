@@ -1,0 +1,8 @@
+NASA Participates in “Ohioans in Space” Painting Unveiling 
+ Representatives from NASA Headquarters and NASA’s Glenn Research Center in Cleveland participated in the unveiling of the “Ohioans in Space” painting at a large gala at the Ohio Statehouse in Columbus on Jan. 24. The portrait, which depicts Ohio-born national heroes Neil Armstrong, John Glenn, Jim Lovell, Judy Resnik, and Gene Kranz, is the first painting hung in the Ohio Statehouse Rotunda in nearly 70 years – since a portrait of the Wright Brothers, who grew up in Ohio, was hung.
+
+Central Ohio middle school students participated in a large interactive Science, Technology, Engineering, and Math (STEM) event at the Statehouse. The Center of Science and Industry (COSI), NASA Glenn and its Office of STEM Engagement, Great Lakes Science Center, and other museums from across Ohio led the activities. Ohio Gov. Mike DeWine, First Lady Fran DeWine, and three former NASA astronauts from Ohio participated.
+
+A public panel discussion on aviation and aerospace was also held. Speakers included NASA’s Deputy Associate Administrator Casey Swails; former astronauts Carl Walz, Michael Good, and Dr. Don Thomas; The Ohio State University’s Dr. John Horack; State Rep. Adam Holmes; and COSI CEO Dr. Frederic Bertley.
+
+The portrait unveiled at the Ohio Statehouse in Columbus depicts Ohio-born national heroes Neil Armstrong, John Glenn, Jim Lovell, Judy Resnik, and Gene Kranz. Credit: Artist Bill Hinsch

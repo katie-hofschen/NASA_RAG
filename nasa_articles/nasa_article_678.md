@@ -1,0 +1,6 @@
+Review of Drivers of Environmental Change Across Southeast Asia Published in Remote Sensing applications: Society and Environment 
+ Pontus Olofsson (ST11) co-authored a paper titled “Review of drivers of forest degradation and deforestation in Southeast Asia.” The study, funded by a grant from the NASA Carbon Monitoring System awarded to Olofsson, presents a review of studies of drivers of forest degradation and deforestation in Southeast Asia. Attributions, including forest conversion to plantation, shifting cultivation, fire, logging, drought, and pest damage were reviewed.
+
+The authors found that: (1) the major drivers are conversion of forest to plantation, shifting cultivation, logging, fire, and drought; (2) the numbers of studies vary greatly from country to country (Indonesia, for example, is much more studied than the Philippines); (3) knowledge about the different drivers is unequal; e.g. conversion of forest to plantation is more studied than other types of change; (4) fine resolution analyses of drivers in Southeast Asia are lacking in the literature; (5) the temporal dynamics of drivers remain largely unknown; and (6) attention to sampling-based estimation of accuracy and area needs improvement.
+
+The paper is available here https://doi.org/10.1016/j.rsase.2023.101129 (note that this is a subscription journal).

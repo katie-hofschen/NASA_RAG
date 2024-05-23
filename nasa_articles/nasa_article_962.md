@@ -1,0 +1,2 @@
+Ingenuity Reestablishes Communications 
+ On Saturday, Jan. 20, communications were reestablished between Ingenuity and NASA’s Perseverance rover. The Ingenuity team has determined the helicopter is power-positive and is sitting vertically on the surface. Next steps include running further diagnostic checks, commanding Ingenuity to take photos of its location on the surface, and performing a spin test.

@@ -1,0 +1,2 @@
+Thank You, Jovian Vortex Hunters! The Hunt Is Over…for Now. 
+ The newly marked-up data from the Jovian Vortex Hunters project revealed more than 7,000 vortexes, a much bigger collection than earlier studies contained. The hard work of our volunteers resulted in trends nobody had seen before! For example, the new data shows that white and dark ovals are more prominent in the higher latitudes, while the brown vortices are in the mid-latitudes.

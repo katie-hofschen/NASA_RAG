@@ -1,0 +1,2 @@
+NASA-Supported Team Discovers Aurora-Like Radio Bursts Above Sunspot 
+ On Earth (and other planets such as Jupiter and Saturn), auroras shimmer in the night sky when solar particles are caught up in the planet’s magnetic field and get pulled toward the poles, where magnetic field lines converge. As they accelerate poleward, the particles generate intense radio emissions at frequencies around a few hundred kilohertz and then smash into atoms in the atmosphere, causing them to emit light as auroras.

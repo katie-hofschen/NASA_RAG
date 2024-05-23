@@ -1,0 +1,2 @@
+Dr. Lori Glaze to begin six-month Detail as Acting Deputy Associate Administrator for ESDMD 
+ We are very excited about these temporary changes in ESDMD, SMD and GSFC leadership, and the broadening opportunities it provides for our Agency leaders. These changes strengthen all three organizations by taking advantage of the great leaders we have in place to ensure all our organizations have strong management. We look forward to continued success in leading the entire Agency team in achieving our mission and science objectives.

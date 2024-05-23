@@ -1,0 +1,10 @@
+Space Biosciences Events 
+ Upcoming Events and Activities
+
+Analysis Working Group Symposium 2024
+
+To explore deeper into space, it is crucial that we learn how our bodies change and adapt to the unique environment of space. The Open Science Data Repository (a combination of GeneLab and Ames Life Sciences Data Archive – ALSDA – datasets) helps scientists understand how the fundamental building blocks of life itself change from exposure to microgravity, radiation, and other aspects of the space environment. The purpose of the Open Science Analysis Working Groups (AWGs) is to optimize the processing of raw omics data from the Open Science Data Repository to maximize the gain of new knowledge from such complex datasets. The AWGs are comprised of scientists with diverse backgrounds and is subdivided into six main areas of expertise (Plant, Animal, Microbes, Multi-omics, ALSDA, and Artificial Intelligence/Machine Learning – AI/ML). The AWG members focus on establishing consensus pipelines, discuss processed data and analyze GeneLab data that enables new discoveries.
+
+Occurring on May 1 – 2, 2024 from 9 am – 2pm PT, this free virtual event is open to the public and will allow attendees an opportunity to hear about some of the exciting open science stemming from the Analysis Work Group (AWG) community. Under the overarching theme of “Bridging Space Biology and Advanced Technologies,” the symposium will feature keynote addresses from Shawna Pandya, Kellie Gerardi, and Chris Sembroski, along with scientific presentations from AWG members that have expertise in artificial intelligence/machine learning, plant biology, systems biology, microbiology, and space medicine. View the agenda to see more details about the event. Register now to secure your spot!
+
+If you are intrigued by the science occurring in the AWGs, then we would love for you to join! Learn more about how to join the AWGs during the event.
