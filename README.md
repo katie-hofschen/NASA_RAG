@@ -1,4 +1,4 @@
-# NASA_RAG
+# NASA Retrieval Augmented Generator
 A Retrieval Augmented Generation for the latest NASA news.      
 A project to learn as you go.     
 
@@ -33,4 +33,20 @@ Some limitations of LLMs are:
 - Sources of information not provided
 
 ### A bit of background on RAGs
-coming soon..
+RAGs use an information source to retrieve relevant information and provide answers that are contextual to a use case. Like in this case we are providing a number of articles from NASA as the information source for the model to reference when it is asked a question.      
+This is partially attractive because rather than retrain an LLM (very expensive and time intensive), we can update our information source to help the RAG give up to date and accurate answers.
+
+#### Naive RAG
+To do this our information source is split into equal size chunks of text (this allows us to extract the relevant paragraphs rather than an entire document). These chunks are then vectorized and stored in a vector database. When a query is submitted, we vectorize it and try to find the top k most relevant chunks of our information source. The query and the relevant chunks are then passed to an LLM to create a coherent answer.  
+
+#### Agent RAG
+An agent is more or less an tool that helps LLMs give more accurate answers. For example a calculator for math, search tool for the web, knowledge base searcher and summarizer and more. [Langchain agents](https://www.pinecone.io/learn/series/langchain/langchain-agents/)     
+Common types of agents are:     
+* Zero Shot ReAct (the agent considers one single interaction with the agent — it will have no memory.)
+* Conversational ReAct (agent same as the same as Zero Shot ReAct agent, but with conversational memory.)
+* ReAct Docstore (explicitly built for information search and lookup using a LangChain docstore.)
+* Self-Ask With Search (when connecting an LLM with a search engine: it will perform searches and ask follow-up questions as often as required to get a final answer.)
+
+
+#### Guardrails RAG
+Semi or fully deterministic shield that protects against specific behaviors, topics and can trigger specific actions if problematic behaviour is encountered.
