@@ -27,7 +27,6 @@ LLMs should then be fine tuned to help them understand tasks (eg. given x query 
 A bit of context on the development of LLMs:
 [<img src="https://miro.medium.com/v2/resize:fit:2000/format:webp/0*2FIDOD-IRWOqalw8">](https://medium.com/@thefrankfire/building-basic-intuition-for-large-language-models-llms-91f7ca92dfe7)
 
-
 Some limitations of LLMs are:
 - Hallucinations
 - Sources of information not provided
@@ -35,6 +34,9 @@ Some limitations of LLMs are:
 ### A bit of background on RAGs
 RAGs use an information source to retrieve relevant information and provide answers that are contextual to a use case. Like in this case we are providing a number of articles from NASA as the information source for the model to reference when it is asked a question.      
 This is partially attractive because rather than retrain an LLM (very expensive and time intensive), we can update our information source to help the RAG give up to date and accurate answers.
+
+#### Embeddings
+An embedding is a numerical representation of a piece of information, for example, text, documents, images, audio, etc. The representation captures the semantic meaning of what is being embedded, making it robust for many industry applications.
 
 #### Naive RAG
 To do this our information source is split into equal size chunks of text (this allows us to extract the relevant paragraphs rather than an entire document). These chunks are then vectorized and stored in a vector database. When a query is submitted, we vectorize it and try to find the top k most relevant chunks of our information source. The query and the relevant chunks are then passed to an LLM to create a coherent answer.  
@@ -47,6 +49,15 @@ Common types of agents are:
 * ReAct Docstore (explicitly built for information search and lookup using a LangChain docstore.)
 * Self-Ask With Search (when connecting an LLM with a search engine: it will perform searches and ask follow-up questions as often as required to get a final answer.)
 
-
 #### Guardrails RAG
-Semi or fully deterministic shield that protects against specific behaviors, topics and can trigger specific actions if problematic behaviour is encountered.
+Guardrails can be described as classifiers of user intent. When a user asks a question, the guardrails identify this intent and trigger the RAG pipeline.
+The categories of user intent are called "canonical forms". For example, define: user asks technical question, define: user asks about space etc.
+Then they are defined by providing example queries (utterances) that belong to a canonical form. For example, How can I automate my house?, or Why haven't we gotten a response from life beyond earth?     
+All utterances are vectorized and so is the user query. If the query is similar to some utterances their canonical form is triggered.  
+(Can be a compromise in speed and accuracy between naive and agent RAG)
+
+
+Idea: Start with simple RAG     
+(maybe with pre and post processing):
+1. Use an LLM to summarize the query and then embed the resulting summary to compare to chunks.
+2. Ask an LLM to chose the most applicable answer to the orignial user query.
