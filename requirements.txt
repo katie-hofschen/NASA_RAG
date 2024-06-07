@@ -1,0 +1,8 @@
+torch 
+transformers 
+accelerate  
+transformers  
+faiss-cpu
+langchain_community
+langchain
+tqdm

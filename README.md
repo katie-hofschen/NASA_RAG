@@ -39,7 +39,7 @@ This is partially attractive because rather than retrain an LLM (very expensive 
 An embedding is a numerical representation of a piece of information, for example, text, documents, images, audio, etc. The representation captures the semantic meaning of what is being embedded, making it robust for many industry applications.
 
 #### Naive RAG
-To do this our information source is split into equal size chunks of text (this allows us to extract the relevant paragraphs rather than an entire document). These chunks are then vectorized and stored in a vector database. When a query is submitted, we vectorize it and try to find the top k most relevant chunks of our information source. The query and the relevant chunks are then passed to an LLM to create a coherent answer.  
+To do this our information source is split into equal size chunks of text (this allows us to extract the relevant paragraphs rather than an entire document). These chunks are then vectorized and stored in a vector database. When a query is submitted, we vectorize it and try to find the top k most relevant chunks of our information source. The query and the relevant chunks are then passed to an LLM to create a coherent answer. [Huggingface Tutorial for simple RAG](https://huggingface.co/learn/cookbook/en/rag_zephyr_langchain)
 
 #### Agent RAG
 An agent is more or less an tool that helps LLMs give more accurate answers. For example a calculator for math, search tool for the web, knowledge base searcher and summarizer and more. [Langchain agents](https://www.pinecone.io/learn/series/langchain/langchain-agents/)     
@@ -61,3 +61,5 @@ Idea: Start with simple RAG
 (maybe with pre and post processing):
 1. Use an LLM to summarize the query and then embed the resulting summary to compare to chunks.
 2. Ask an LLM to chose the most applicable answer to the orignial user query.
+
+[Advanced RAG tutorial from Huggingface](https://huggingface.co/learn/cookbook/en/advanced_rag)
