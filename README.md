@@ -2,6 +2,20 @@
 A Retrieval Augmented Generation for the latest NASA news.      
 A project to learn as you go.     
 
+## Using this repository
+Assuming that python and jupyter notebook are already installed.    
+
+1. Run pip install -r requirements.txt to install the necessary packages
+2. Run create_VectorDB.ipynb
+3. Run RAG.ipynb (If you have a GPU you can load an optimized pretrained model; with just CPU it can take up to 25 min)
+4. Play around with questions to the NASA RAG.
+
+Future work:
+- Either use a huggingface endpoint or deploy a model on aws with lambda to improve response times.
+- Play around with more advanced RAG methods.
+- Definitely make outputs to questions prettier and easier to read.
+- possibly simple UI for questions and answers.
+
 ## Theoretical background
 ### LLMs in short
 LLMs are essentially trained to predict the next word in a sentence. 
