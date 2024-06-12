@@ -11,7 +11,7 @@ Assuming that python and jupyter notebook are already installed.
 4. Play around with questions to the NASA RAG.
 
 Future work:
-- Either use a huggingface [endpoint](https://huggingface.co/docs/inference-endpoints/index) or deploy a model on [aws](https://www.youtube.com/watch?v=a2A_CxrH3Ts) with lambda to improve response times. [Using terraform](https://registry.terraform.io/modules/philschmid/sagemaker-huggingface/aws/latest)
+- Either use a huggingface [endpoint](https://huggingface.co/docs/inference-endpoints/index) or deploy a model on [aws](https://www.youtube.com/watch?v=a2A_CxrH3Ts) with lambda to improve response times. Do this using [terraform module sagemaker-huggingface](https://registry.terraform.io/modules/philschmid/sagemaker-huggingface/aws/latest) or from [scratch with terraform](https://aws.plainenglish.io/creating-a-serverless-endpoint-in-amazon-sagemaker-for-hugging-face-models-using-terraform-ff2113e65abc)
 - Play around with more advanced RAG methods.
 - Definitely make outputs to questions prettier and easier to read.
 - possibly simple UI for questions and answers.
