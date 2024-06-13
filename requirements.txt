@@ -6,3 +6,5 @@ faiss-cpu
 langchain_community
 langchain
 tqdm
+boto3
+sagemaker>=2.48.0
