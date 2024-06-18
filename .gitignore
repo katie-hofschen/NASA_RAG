@@ -1,3 +1,6 @@
+# Ignore vars in terraform
+nasa_terraform/terraform.tfvars
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
