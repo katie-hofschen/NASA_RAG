@@ -6,9 +6,10 @@ A project to learn as you go.
 Assuming that python and jupyter notebook are already installed.    
 
 1. Run pip install -r requirements.txt to install the necessary packages
-2. Run create_VectorDB.ipynb
-3. Run RAG.ipynb (If you have a GPU you can load an optimized pretrained model; with just CPU it can take up to 25 min)
-4. Play around with questions to the NASA RAG.
+2. Setup awscli (with v2 you can use `aws configure sso`)
+3. Run create_VectorDB.ipynb
+4. Run RAG.ipynb (If you have a GPU you can load an optimized pretrained model; with just CPU it can take up to 25 min)
+5. Play around with questions to the NASA RAG.
 
 Future work:
 - Either use a huggingface [endpoint](https://huggingface.co/docs/inference-endpoints/index) or deploy a model on [aws](https://www.youtube.com/watch?v=a2A_CxrH3Ts) with lambda to improve response times. Do this using [terraform module sagemaker-huggingface](https://registry.terraform.io/modules/philschmid/sagemaker-huggingface/aws/latest) or from [scratch with terraform](https://aws.plainenglish.io/creating-a-serverless-endpoint-in-amazon-sagemaker-for-hugging-face-models-using-terraform-ff2113e65abc)
