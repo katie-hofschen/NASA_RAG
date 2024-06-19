@@ -56,3 +56,4 @@ resource "aws_sagemaker_endpoint" "endpoint" {
   name                  = var.endpoint_name
   endpoint_config_name  = aws_sagemaker_endpoint_configuration.endpoint_config.name
 }
+
