@@ -1,6 +1,14 @@
+terraform {
+  required_providers {
+    aws = {
+      source  = "hashicorp/aws"
+    }
+  }
+}
+
 provider "aws" {
-  profile = "default"
-  region  = "eu-west-3"
+  region  = "eu-west-1"
+  profile = "dev-profile"
 }
 
 # sagemaker.amazonaws.com assumes the role and can perform actions defined by policies
@@ -31,7 +39,7 @@ resource "aws_sagemaker_model" "model" {
   name               = var.model_name
   execution_role_arn = var.sagemaker_execution_role_arn
   primary_container {
-    image          = "763104351884.dkr.ecr.us-west-2.amazonaws.com/huggingface-pytorch-inference:1.6.0-cpu-py36-ubuntu18.04"
+    image          = "763104351884.dkr.ecr.eu-west-1.amazonaws.com/huggingface-pytorch-inference:2.1.0-transformers4.37.0-cpu-py310-ubuntu22.04"
     environment = {
       HF_MODEL_ID = "stabilityai/stablelm-zephyr-3b"
       HF_TASK     = "question-answering"
