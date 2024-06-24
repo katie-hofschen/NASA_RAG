@@ -6,13 +6,13 @@ variable "sagemaker_execution_role_arn" {
 variable "model_name" {
   description = "The name of the SageMaker model"
   type        = string
-  default     = "stablelm-zephyr-3b-model"
+  default     = "distilbert-model"
 }
 
 variable "endpoint_name" {
   description = "The name of the SageMaker endpoint"
   type        = string
-  default     = "stablelm-zephyr-3b-endpoint"
+  default     = "distilbert-model-endpoint"
 }
 
 variable "instance_type" {
