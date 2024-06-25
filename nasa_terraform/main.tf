@@ -41,8 +41,8 @@ resource "aws_sagemaker_model" "model" {
   primary_container {
     image          = "763104351884.dkr.ecr.eu-west-1.amazonaws.com/huggingface-pytorch-inference:2.1.0-transformers4.37.0-cpu-py310-ubuntu22.04"
     environment = {
-      HF_MODEL_ID = "distilbert/distilbert-base-uncased-distilled-squad"
-      HF_TASK     = "question-answering"
+      HF_MODEL_ID = "mistralai/Mistral-7B-Instruct-v0.3"
+      HF_TASK     = "text-generation"
     }
   }
 }

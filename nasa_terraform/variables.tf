@@ -6,13 +6,13 @@ variable "sagemaker_execution_role_arn" {
 variable "model_name" {
   description = "The name of the SageMaker model"
   type        = string
-  default     = "distilbert-model"
+  default     = "mistral-model"
 }
 
 variable "endpoint_name" {
   description = "The name of the SageMaker endpoint"
   type        = string
-  default     = "distilbert-model-endpoint"
+  default     = "mistral-model-endpoint"
 }
 
 variable "instance_type" {
