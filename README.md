@@ -8,23 +8,26 @@ Assuming that python and jupyter notebook are already installed.
 ### Running everything locally (without GPU - very slow)
 1. Run pip install -r requirements.txt to install the necessary packages
 3. Run create_VectorDB.ipynb
-4. Run RAG.ipynb (If you have a GPU you can load an optimized pretrained model; with just CPU it can take up to 25 min)
+4. Run local_RAG.ipynb (If you have a GPU you can load an optimized pretrained model; with just CPU it can take up to 25 min)
 5. Play around with questions to the NASA RAG.
 
 ### Using Terraform to spin up an AWS Sagemaker Endpoint hosting the model
-1. Install requirements
-2. Setup Terraform if not installed yet [Guide](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)
-3. Setup awscli with your credentials (with v2 you can use `aws configure sso`) [Setup with IAM profile](https://docs.aws.amazon.com/cli/latest/userguide/sso-configure-profile-token.html#sso-configure-profile-token-auto-sso)
-4. Open terminal in nasa_terraform/ folder and run `terraform init`, (to see what changes would be applied `terraform plan`) and to spin everything up `terraform apply`.
-5. Invoke the endpoint in deploy_transformer_model.ipynb
-6. When done with everything run `terraform destroy` to shut down the created infrastructure.
+Prerequisites: 
+- Setup Terraform if not installed yet [Guide](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)
+- Setup awscli with your credentials (with v2 you can use `aws configure sso`) [Setup with IAM profile](https://docs.aws.amazon.com/cli/latest/userguide/sso-configure-profile-token.html#sso-configure-profile-token-auto-sso)
+
+1. Install python libraries from the requirements.txt
+2. Login to awscli, I use `aws sso login --profile [your-profile-name]`
+4. Open terminal in nasa_terraform/ folder and run `terraform init` (only the first time you start everything up), to see what changes would be applied `terraform plan` and to spin everything up `terraform apply`.
+5. Invoke the endpoint in invoke_endpoint.ipynb
+6. When you're done run `terraform destroy` to shut down the created infrastructure.
 
 
 Future work:
 - Either use a huggingface [endpoint](https://huggingface.co/docs/inference-endpoints/index) or deploy a model on [aws](https://www.youtube.com/watch?v=a2A_CxrH3Ts) with lambda to improve response times. Do this using [terraform module sagemaker-huggingface](https://registry.terraform.io/modules/philschmid/sagemaker-huggingface/aws/latest) or from [scratch with terraform](https://aws.plainenglish.io/creating-a-serverless-endpoint-in-amazon-sagemaker-for-hugging-face-models-using-terraform-ff2113e65abc)
 - Play around with more advanced RAG methods.
-- Definitely make outputs to questions prettier and easier to read.
-- possibly simple UI for questions and answers.
+- Make outputs to questions prettier and easier to read.
+- Possibly simple UI for questions and answers.
 
 ## Theoretical background
 ### LLMs in short
