@@ -18,5 +18,10 @@ variable "endpoint_name" {
 variable "instance_type" {
   description = "The type of instance to use for the endpoint"
   type        = string
-  default     = "ml.m5.large"
+  default     = "ml.g5.2xlarge"
+}
+
+variable "hf_api_token" {
+  description = "The HF_API_TOKEN holds your huggingface authorization token. It is used as a HTTP bearer authorization for remote files. You can create one in your hugginface settings."
+  type        = string
 }
