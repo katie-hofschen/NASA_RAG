@@ -16,16 +16,21 @@ Prerequisites:
 - Setup Terraform if not installed yet [Guide](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)
 - Setup awscli with your credentials (with v2 you can use `aws configure sso`) [Setup with IAM profile](https://docs.aws.amazon.com/cli/latest/userguide/sso-configure-profile-token.html#sso-configure-profile-token-auto-sso)
 
+To create the endpoint and RAG
 1. Install python libraries from the requirements.txt
 2. Login to awscli, I use `aws sso login --profile [your-profile-name]`
 4. Open terminal in nasa_terraform/ folder and run `terraform init` (only the first time you start everything up), to see what changes would be applied `terraform plan` and to spin everything up `terraform apply`.
 5. Invoke the endpoint in invoke_endpoint.ipynb
-6. When you're done run `terraform destroy` to shut down the created infrastructure.
+6. When you're done run `terraform destroy` to shut down the created infrastructure.     
 
+Notes:   
+These are resoures I found for hosting an endpoint in case people would like to experiment with other implementations. \\
+- [Huggingface endpoint](https://huggingface.co/docs/inference-endpoints/index)
+- [Terraform module sagemaker-huggingface from Phil Schmid](https://registry.terraform.io/modules/philschmid/sagemaker-huggingface/aws/latest)
+- [From scratch with terraform](https://aws.plainenglish.io/creating-a-serverless-endpoint-in-amazon-sagemaker-for-hugging-face-models-using-terraform-ff2113e65abc)
 
 Future work:
-- Either use a huggingface [endpoint](https://huggingface.co/docs/inference-endpoints/index) or deploy a model on [aws](https://www.youtube.com/watch?v=a2A_CxrH3Ts) with lambda to improve response times. Do this using [terraform module sagemaker-huggingface](https://registry.terraform.io/modules/philschmid/sagemaker-huggingface/aws/latest) or from [scratch with terraform](https://aws.plainenglish.io/creating-a-serverless-endpoint-in-amazon-sagemaker-for-hugging-face-models-using-terraform-ff2113e65abc)
-- Play around with more advanced RAG methods.
+- Try more advanced RAG methods. [Advanced RAG tutorial from Huggingface](https://huggingface.co/learn/cookbook/en/advanced_rag)
 - Make outputs to questions prettier and easier to read.
 - Possibly simple UI for questions and answers.
 
@@ -50,9 +55,6 @@ Whether Chaos brought life and substance out of nothing or whether Chaos yawned 
 One type of neural network architecture that LLMs are trained with is called a Transformer which will learn how to keep refining their predictions as more words are added until a sentence's context is complete or it has reached a pre-set limit. 
 
 LLMs should then be fine tuned to help them understand tasks (eg. given x query y answer would be expected), and interact in a non-toxic way (this is especially important when training on internet content that may not have been comprehensivly screened, we all know why...).
-
-A bit of context on the development of LLMs:
-[<img src="https://miro.medium.com/v2/resize:fit:2000/format:webp/0*2FIDOD-IRWOqalw8">](https://medium.com/@thefrankfire/building-basic-intuition-for-large-language-models-llms-91f7ca92dfe7)
 
 Some limitations of LLMs are:
 - Hallucinations
@@ -83,10 +85,3 @@ Then they are defined by providing example queries (utterances) that belong to a
 All utterances are vectorized and so is the user query. If the query is similar to some utterances their canonical form is triggered.  
 (Can be a compromise in speed and accuracy between naive and agent RAG)
 
-
-Idea: Start with simple RAG     
-(maybe with pre and post processing):
-1. Use an LLM to summarize the query and then embed the resulting summary to compare to chunks.
-2. Ask an LLM to chose the most applicable answer to the orignial user query.
-
-[Advanced RAG tutorial from Huggingface](https://huggingface.co/learn/cookbook/en/advanced_rag)
