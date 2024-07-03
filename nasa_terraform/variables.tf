@@ -18,7 +18,7 @@ variable "endpoint_name" {
 variable "instance_type" {
   description = "The type of instance to use for the endpoint"
   type        = string
-  default     = "ml.g5.2xlarge"
+  default     = "ml.g4dn.xlarge"
 }
 
 variable "hf_api_token" {
